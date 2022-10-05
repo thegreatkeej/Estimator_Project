@@ -21,7 +21,7 @@ https://www.homedepot.com/p/Halex-3-4-in-Electrical-Metallic-Tube-EMT-Set-Screw-
 # 3/4 in. emt set-screw couplings does not have a direct search for Home Depot but does work for Lowes (5-pack) and Grainger (1-pack)
 https://www.homedepot.com/p/Halex-3-4-in-Electric-Metallic-Tube-EMT-Set-Screw-Coupling-5-Pack-26282/202288508
 
-# 1 in. emt set-screw connector (Item names work for all (1-pack))
+# 1 in. emt set-screw connector (Item names work for all (1-pack)
 # 1-pack is 3rd link to right
 https://www.homedepot.com/p/Halex-1-in-Electrical-Metallic-Tube-EMT-Set-Screw-Connector-12310/202077147
 # 1in. set-screw emt coupling - 1-pack is 3rd link to right (Lowes and Grainger require a different search name)
