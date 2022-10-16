@@ -4,7 +4,7 @@
 To save estimators time, We are creating a live HTML/website that uses APIs to search material prices of three electrical materials suppliers. With the data collected, we will produce a table that can be updated daily. This table will list material prices and our algorithm will choose the cheapest priced items of the day to populate our table.
 
 ## Weekly Notes Board
-In this project, we are tracking prices for (15) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used. I Python to search. Does someone want to try searching using JSON? The code I created does the job we need it to do but it has some problems (K. Fikiri 10/16/22).
+In this project, we are tracking prices for (15) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used. I used Python to search. Does someone want to try searching using JSON? The code I created does the job we need it to do but it has some problems (K. Fikiri 10/16/22).
 
 ### Current code issues and next steps:
 •	Fix “Multi-Vendor_grab” so that it only grabs information where price is listed
