@@ -13,10 +13,13 @@ In this project, we are tracking prices for (15) items. Originally, we were goin
 
 •	Clean raw data:
 
-o	Drop na’s
-o	Drop vendors with only (1) value count
-o	Return a data set of minimums
-o	Find: average, max, and SD of prices
+  o	Drop na’s
+
+  o	Drop vendors with only (1) value count
+
+  o	Return a data set of minimums
+
+  o	Find: average, max, and SD of prices
 
 •	Create data base, CSV and Excel file with data and send to website
 
