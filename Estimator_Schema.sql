@@ -1,23 +1,25 @@
 -- Home Depot (API 1)
 CREATE TABLE HomeDepot_table (
-  Material_Description VARCHAR (80) PRIMARY KEY NOT NULL,
+  Common_Description VARCHAR (80) PRIMARY KEY NOT NULL,
   Product_id TEXT,
   Material_Price FLOAT,
   Vendor_Location TEXT 
 );
 
--- Lowes (API 2)
-CREATE TABLE Lowes_table (
-  Material_Description VARCHAR (80) PRIMARY KEY NOT NULL,
-  Product_id TEXT,
+-- Multi-Vendor_grab (google search results)
+CREATE TABLE Multi-Vendor_grab_table (
+  Common_Description VARCHAR (80) PRIMARY KEY NOT NULL,
+  link VARCHAR (200),
   Material_Price FLOAT,
-  Vendor_Location TEXT 
+  Vendor_Location TEXT,
+  Manufacture_Description VARCHAR (80)
 );
 
--- Grainger (API 3)
+-- Lowes (google search results)
 CREATE TABLE Lowes_table (
-  Material_Description VARCHAR (80) PRIMARY KEY NOT NULL,
-  Product_id TEXT,
+  Common_Description VARCHAR (80) PRIMARY KEY NOT NULL,
+  link VARCHAR (200),
   Material_Price FLOAT,
-  Vendor_Location TEXT 
+  Vendor_Location TEXT,
+  Manufacture_Description VARCHAR (80)
 );

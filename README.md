@@ -1,29 +1,45 @@
 # Estimator_Project
 
-## Purpose of Project
-To save estimators time, We are creating a live HTML/website that uses APIs to search material prices of three electrical materials suppliers. With the data collected, we will produce a table that can be updated daily. This table will list material prices and our algorithm will choose the cheapest priced items of the day to populate our table.
-
 ## Weekly Notes Board
-In this project, we are tracking prices for (15) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used. I used Python to search. Does someone want to try searching using JSON? The code I created does the job we need it to do but it has some problems (K. Fikiri 10/16/22).
+In this project, we are tracking prices for (16) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used (K. Fikiri 10/17/22).
 
-### Current code issues and next steps:
-•	Fix “Multi-Vendor_grab” so that it only grabs information where price is listed
+### What the Current scripts do (see 'Multi-Vendor_grab' and 'Lowes_Estimator_Script'):
+•	Grabs information (link, title, and price)
 
-•	Make a better price variable (currently looks like this: ‘['rich_snippet']['top']['detected_extensions']['price']’
+•	Creates a ‘Vendor Location’ column (vendor names don’t already exist in the data I grabbed)
 
-•	Clean raw data:
+•	Cleans raw data:
 
-  o	Drop na’s
+  o	Drops na’s
 
-  o	Drop vendors with only (1) value count
+  o	Drops vendors with only (1) appearance
 
-  o	Return a data set of minimums
+### What Currently Needs Work (10/18 to 10/25):
 
-  o	Find: average, max, and SD of prices
+•	Make a better price variable (currently looks like this: ‘['rich_snippet']['top']['detected_extensions']['price']’	
+
+•	Create categories for the materials so that we can match all the material names (manufacturers name the same materials with slightly different names)
+
+•	Decide how to handle scaling issues (some prices are given by the foot and others are given by 100’)
+
+•	Return a data set of minimums
 
 •	Create data base, CSV and Excel file with data and send to website
 
 •	Polish a deliverable “Segment 1”
+
+## Things to try (I used Python to search using a Home Depot product API and a Google Search API, but...)
+
+•	Does someone want to try searching using JSON instead of Python?
+
+•	Does someone want to try searching using a different type of API?
+
+•	Does someone want to try web Scraping to get the data we need (for a list of the materials we are looking for, see ‘links.py’)
+
+•	Does someone want to try creating an additional column that gives distance of vendor location to a specified zip code?
+
+## Purpose of Project
+To save estimators time, We are creating a live HTML/website that uses APIs to search material prices of three electrical materials suppliers. With the data collected, we will produce a table that can be updated daily. This table will list material prices and our algorithm will choose the cheapest priced items of the day to populate our table.
 
 ## Protocols
 Members: Kijahre Fikiri, Nancy Fujikado, Sarah-Michelle Sanchez and Alexei Mendoza are the contibutors of this project.
