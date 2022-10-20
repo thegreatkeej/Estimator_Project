@@ -12,19 +12,21 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
   o	Drops na’s
 
-  o	Drops vendors with only (1) appearance
+  o	Drops vendors with scaling issues
+
+•	Returns a csv and excel with:	
+
+	o	Working data set that is cleaned and gives lowest prices
+
+	o	Cleaned data set that gives all prices
 
 ### What Currently Needs Work (10/18 to 10/25):
 
-•	Make a better price variable (currently looks like this: ‘['rich_snippet']['top']['detected_extensions']['price']’	
+•	Refactor code to be more efficient
 
-•	Create categories for the materials so that we can match all the material names (manufacturers name the same materials with slightly different names)
+•	Create data base 
 
-•	Decide how to handle scaling issues (some prices are given by the foot and others are given by 100’)
-
-•	Return a data set of minimums
-
-•	Create data base, CSV and Excel file with data and send to website
+•	Create code that automates the search so that our script scrapes the web once a day and sends data to website
 
 •	Polish a deliverable “Segment 1”
 
