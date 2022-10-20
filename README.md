@@ -1,4 +1,5 @@
 # Estimator_Project
+(THIS PROJECT IS CURRENTLY IN PROGRESS)
 
 ## Weekly Notes Board
 In this project, we are tracking prices for (16) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used (K. Fikiri 10/17/22).
@@ -10,9 +11,9 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 •	Cleans raw data:
 
-  o	Drops na’s
+  	o	Drops na’s
 
-  o	Drops vendors with scaling issues
+  	o	Drops vendors with scaling issues
 
 •	Returns a csv and excel with:	
 
