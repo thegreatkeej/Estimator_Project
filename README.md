@@ -4,7 +4,12 @@
 ## Weekly Notes Board
 In this project, we are tracking prices for (16) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used (K. Fikiri 10/17/22).
 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture1.png)
+
 ### What the Current scripts do (see 'Multi-Vendor_grab' and 'Lowes_Estimator_Script'):
+
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture2.png)
+
 •	Grabs information (link, title, and price)
 
 •	Creates a ‘Vendor Location’ column (vendor names don’t already exist in the data I grabbed)
@@ -15,11 +20,18 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
   	o	Drops vendors with scaling issues
 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture3.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture4.png)
+
 •	Returns a csv and excel with:	
 
 	o	Working data set that is cleaned and gives lowest prices
 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture5.png)
+
 	o	Cleaned data set that gives all prices
+
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture6.png)
 
 ### What Currently Needs Work (10/18 to 10/25):
 
