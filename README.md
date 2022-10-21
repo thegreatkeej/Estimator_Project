@@ -6,7 +6,7 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture1.png)
 
-### What the Current scripts do (see 'Multi-Vendor_grab' and 'Lowes_Estimator_Script'):
+### What the Current script does (see 'Working_Estimator_Script', 'clean_df.csv', 'working_df.csv'):
 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture2.png)
 
