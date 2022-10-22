@@ -1,25 +1,23 @@
--- Home Depot (API 1)
+-- Home Depot (Home Depot Product ID API)
 CREATE TABLE HomeDepot_table (
-  Common_Description VARCHAR (80) PRIMARY KEY NOT NULL,
+  Material_Description VARCHAR (80) PRIMARY KEY NOT NULL,
   Product_id TEXT,
   Material_Price FLOAT,
   Vendor_Location TEXT 
 );
 
--- Multi-Vendor_grab (google search results)
-CREATE TABLE Multi-Vendor_grab_table (
-  Common_Description VARCHAR (80) PRIMARY KEY NOT NULL,
-  link VARCHAR (200),
+-- Cleaned_Data (google search results)
+CREATE TABLE Cleaned_Data (
+  Material_Description VARCHAR (80) PRIMARY KEY NOT NULL,
   Material_Price FLOAT,
   Vendor_Location TEXT,
-  Manufacture_Description VARCHAR (80)
+  link VARCHAR (200)
 );
 
--- Lowes (google search results)
-CREATE TABLE Lowes_table (
-  Common_Description VARCHAR (80) PRIMARY KEY NOT NULL,
-  link VARCHAR (200),
+-- Working_Table (google search results)
+CREATE TABLE Working_Table (
+  Material_Description VARCHAR (80) PRIMARY KEY NOT NULL,
   Material_Price FLOAT,
   Vendor_Location TEXT,
-  Manufacture_Description VARCHAR (80)
+  link VARCHAR (200)
 );

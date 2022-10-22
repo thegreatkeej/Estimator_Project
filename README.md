@@ -35,8 +35,6 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 ### What Currently Needs Work (10/18 to 10/25):
 
-•	Refactor code to be more efficient
-
 •	Create data base 
 
 •	Create code that automates the search so that our script scrapes the web once a day and sends data to website
@@ -60,6 +58,6 @@ To save estimators time, We are creating a live HTML/website that uses APIs to s
 Members: Kijahre Fikiri, Nancy Fujikado, Sarah-Michelle Sanchez and Alexei Mendoza are the contibutors of this project.
 
 ### Description (communication and rules):
-1.	The contributors will meet every Tuesday at 2pm (unless otherwise specified).
+1.	The contributors will meet durring normal class time (unless otherwise specified).
 2.	The main branch will only be merged with group consensus.
 3. 	Feel free to leave notes on the notes board. Please leave name and date along with any comments.
