@@ -51,8 +51,21 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 •	Does someone want to try creating an additional column that gives distance of vendor location to a specified zip code?
 
-## Purpose of Project
+## Problem Specification #1
+I am an estimator. In the old days when we needed to price materials, we would look at a “hot sheet” (a list of materials and their prices generated once a quarter). Now, due to the crazy rise in inflation, material prices must be generated the day the estimate is created. Many hours are lost scouring the net looking for current material prices.
+
+## Problem Specification #2
+To save time, estimators do not scour the web to price every small item. For example, when an electrician installs 10 feet of pipe, in addition to the pipe, they will need two connectors, two straps and possibly one coupling. To Account for the costs, estimators will add on a percentage of the bid to cover the small items.
+
+## What we are Doing Here
 To save estimators time, We are creating a live HTML/website that uses APIs to search material prices of three electrical materials suppliers. With the data collected, we will produce a table that can be updated daily. This table will list material prices and our algorithm will choose the cheapest priced items of the day to populate our table.
+
+## Results
+At the completion of this project, we hope to:
+·       Save time and money for estimators bidding projects by retrieving the lowest prices and the locations of the product.
+·       Create an automated table using Python script and APIs.
+·       use a multi linear regression model to see if there is a correlation between the increase of large electrical materials and small electrical materials so that we can more accurately estimate for small items.
+·       Visualizations that will show prices of materials on different days of the week. For example: If materials are cheaper on Thursday, we could generate savings by only purchasing materials on Thursday.
 
 ## Protocols
 Members: Kijahre Fikiri, Nancy Fujikado, Sarah-Michelle Sanchez and Alexei Mendoza are the contibutors of this project.
