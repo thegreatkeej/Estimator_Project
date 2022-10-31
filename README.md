@@ -58,6 +58,7 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture3.png)
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture4.png)
+
 •	Returns a csv and excel with:	
 
 	o	Working data set that is cleaned and gives lowest prices
@@ -69,16 +70,16 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 ### What Currently Needs Work (10/18 to 10/25):
 
-[ ] Create data base 
-[ ] Create code that automates the search so that our script scrapes the web once a day and sends data to website
-[ ] Polish a deliverable “Segment 1”
+-   Create data base 
+-   Create code that automates the search so that our script scrapes the web once a day and sends data to website
+-   Polish a deliverable “Segment 1”
 
 ## Things to try (I used Python to search using a Home Depot product API and a Google Search API, but...)
 
-[ ] Does someone want to try searching using JSON instead of Python?
-[ ] Does someone want to try searching using a different type of API?
-[ ] Does someone want to try web Scraping to get the data we need (for a list of the materials we are looking for, see ‘links.py’)
-[ ] Does someone want to try creating an additional column that gives distance of vendor location to a specified zip code?
+-   Does someone want to try searching using JSON instead of Python?
+-   Does someone want to try searching using a different type of API?
+-   Does someone want to try web Scraping to get the data we need (for a list of the materials we are looking for, see ‘links.py’)
+-   Does someone want to try creating an additional column that gives distance of vendor location to a specified zip code?
 
 
 
