@@ -1,4 +1,3 @@
--- Cleaned_Data (google search results)
 CREATE TABLE cleaned_data (
   material_description VARCHAR (160),
   product_id TEXT,

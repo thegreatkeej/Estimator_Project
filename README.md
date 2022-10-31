@@ -1,6 +1,45 @@
 # Estimator_Project
 (THIS PROJECT IS CURRENTLY IN PROGRESS)
 
+## Things I Did This Week:
+
+•	I found a website that will run our script on a timed basis and hosts the results: deepnote link: https://deepnote.com/workspace/estimatorproject-6166945d-6ec6-41f0-bb95-87f4a60e4841/project/WorkingAutomatedEstimator-59dc3a3e-9636-43f0-9372-adacb8d143f7/notebook/Working_Estimator_Script-9386e927ee03453397c483eb80ef1906
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture7.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture8.png)
+•	I recreated a “Normalized” set of schemas for the data:
+
+•	I sent data to pgAdmin and created databases.
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture9.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture10.png)
+•	I consolidated (9) days of data (408 rows) and started creating a model (In progress) that will establish: 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture12.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture13.png)	
+	o	a correlation between cable and wire
+	
+	o	a correlation between conduit and fittings
+	
+	o	Predict which vendor will offer the cheapest priced item
+	
+	o	Predict which day of the week will offer the cheapest priced item
+
+
+## What Currently Needs Work (10/31 to 11/6):
+
+•	Polish a deliverable “Segment 1”
+
+•	Export from deepnote at the moment. I know it will allow because I’ve done it once before. I suspect it won’t because I am on the free tier.
+
+•	Export PGAdmin db’s so that they re-write existing db in-place
+
+•	I have a schema but My PGAdmin schema needs a little work. I get minor error messages when I try to use it. It needs to get fixed
+
+•	We need historical data to create an effective predictive model and I don’t have it yet, however, we do have 375 rows of data and counting and I should be able to come up with something that predicts by the end of the week.
+ 
+•	Create structure of presentation
+
+•	Get started on Power Point
+
 ## Problem Specification #1
 I am an estimator. In the old days when we needed to price materials, we would look at a “hot sheet” (a list of materials and their prices generated once a quarter). Now, due to the crazy rise in inflation, material prices must be generated the day the estimate is created. Many hours are lost scouring the net looking for current material prices.
 
@@ -52,14 +91,6 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 	o	Cleaned data set that gives all prices
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture6.png)
-
-### What Currently Needs Work (10/18 to 10/25):
-
-•	Create data base 
-
-•	Create code that automates the search so that our script scrapes the web once a day and sends data to website
-
-•	Polish a deliverable “Segment 1”
 
 ## Things to try (I used Python to search using a Home Depot product API and a Google Search API, but...)
 
