@@ -32,13 +32,13 @@ The goal is to
 -   Alexei Mendoza
 
 
-### Description (communication and rules):
+### Communication
 -	The contributors will meet durring normal class time ( Monday & Wednesday) + one additional day during the week.
 -	The main branch will only be merged with group consensus.
 - 	Feel free to leave notes on the notes board. Please leave name and date along with any comments.
 
 
-## Team Progress
+## III. Team Progress
 ## Weekly Notes Board
 In this project, we are tracking prices for (16) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used (K. Fikiri 10/17/22).
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture1.png)
