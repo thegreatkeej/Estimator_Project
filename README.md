@@ -32,8 +32,6 @@
 
 •	Export PGAdmin db’s so that they re-write existing db in-place
 
-•	I have a schema but My PGAdmin schema needs a little work. I get minor error messages when I try to use it. It needs to get fixed
-
 •	We need historical data to create an effective predictive model and I don’t have it yet, however, we do have 375 rows of data and counting and I should be able to come up with something that predicts by the end of the week.
  
 •	Create structure of presentation
