@@ -1,0 +1,19 @@
+body {
+
+    color: hsl(0, 16%, 96%);
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .tag {
+     font-family: inherit; 
+     font-size: 1rem;
+    }  
+  
+  .jumbotron {
+    background-image: url("../images/hardware.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+  }
