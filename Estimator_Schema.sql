@@ -28,7 +28,6 @@ CREATE TABLE all_vendor_table (
   vendor_id TEXT PRIMARY KEY NOT NULL,
   vendor TEXT,
   location VARCHAR (160),
-  formatted_datetime DATE
 );
 
 CREATE TABLE all_link_table (
