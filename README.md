@@ -46,19 +46,19 @@ The goal is to
 3. Can we predict which vendor will be the cheapest?
 
 ### Machine Learning Model
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture9.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture10.png)
-*	Shown is 14 days of data (631 rows) The ML model will utilize two-sampled T-tests to determine: model (In progress) that will establish: 
-
+*	Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: model (In progress) that will establish: 
 -   The correlation between cable and wire prices
 -   The correlation between conduit and fittings prices
--   With the same data, I hope to create a logistic regression model (In progress) that will:
+*   The goal is to create a logistic regression model (In progress) that will:
 	>   Predict which day of the week offers lowest price based on prices, vendor and location
+*   We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
 
-We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture9.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture10.png)
+
 
 ### Database Integration
-•	Data is sent to pgAdmin and creates databases (see ERD, schema, code, and db's below).
+* Data is sent to pgAdmin and creates databases (see ERD, schema, code, and db's below).
 * ERD linking the tables
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture14.png)
 
