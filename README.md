@@ -63,7 +63,7 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 ![pop.png](Tableau_Info/Images/pop.png)
 
-![heat.png](Tableau_Info/Images/heat.png)
+
 
 ![location.png](Tableau_Info/Images/location.png)
 
