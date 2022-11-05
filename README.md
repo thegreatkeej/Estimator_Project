@@ -15,7 +15,7 @@ Small items, typically purchased with large material, are not directly priced. R
 To increase process efficiency, we are designing a live HTML/website powered by APIs to search prices from three electrical material suppliers. The data collected will be used to create a table on the website that is updated daily. Additionally, our algorithm will select the cheapest priced items of the day to populate the table. The Machine Learning aspect will inform us on price fluctuation to determine when material costs increase or decrease with respect to the day of the week. We will also look into any correlation between price increases in small items with respect to the primary items.
 
 ### Results
-The goal is to
+The goal is to:
 -   Save time and money when retrieving the lowest prices (and the locations) of the product.
 -   Create an automated table using Python script and APIs.
 -   Use a multi linear regression model to identify a correlation between the increase of primary electrical materials and small electrical materials. (Estimate small material costs)
@@ -38,7 +38,7 @@ The goal is to
 - 	Feel free to leave notes on the notes board. Please leave name and date along with any comments.
 
 ### Data Source
-- The automated pricing and machine learning price forecasting will be performed with the data collected from the beginning of the project. During the beginning stages of the project, data has been collected for materials, pricing, and vendors. The required 1000 min lines of items will be utilized for the machine learning portion. 
+The automated pricing and machine learning price forecasting will be performed with the data collected from the beginning of the project. During the beginning stages of the project, data has been collected for materials, pricing, and vendors. The required 1000 min lines of items will be utilized for the machine learning portion. 
 
 ### Questions to Answer
 1. What day of the week will electrical material be cheapest?
@@ -46,19 +46,20 @@ The goal is to
 3. Can we predict which vendor will be the cheapest?
 
 ### Machine Learning Model
-*	Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: model (In progress) that will establish: 
+Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: model (In progress) that will establish: 
 -   The correlation between cable and wire prices
 -   The correlation between conduit and fittings prices
-*   The goal is to create a logistic regression model (In progress) that will:
+
+The goal is to create a logistic regression model (In progress) that will:
 	>   Predict which day of the week offers lowest price based on prices, vendor and location
-*   We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
+We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture9.png)
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture10.png)
 
 
 ### Database Integration
-* Data is sent to pgAdmin and creates databases (see ERD, schema, code, and db's below).
+Data is sent to pgAdmin and creates databases (see ERD, schema, code, and db's below).
 * ERD linking the tables
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture14.png)
 
