@@ -53,6 +53,18 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 	o	Cleaned data set that gives all prices
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture6.png)
 
+![material.png](Tableau_Info/Images/material.png)
+
+![day.png](Tableau_Info/Images/day.png)
+
+![pop.png](Tableau_Info/Images/pop.png)
+
+![heat.png](Tableau_Info/Images/heat.png)
+
+![location.png](Tableau_Info/Images/location.png)
+
+![price.png](Tableau_Info/Images/price.png)
+
 ### What Currently Needs Work (10/18 to 10/25):
 
 •	Create data base 
