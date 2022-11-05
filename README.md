@@ -40,6 +40,9 @@ The goal is to:
 ### Data Source
 The automated pricing and machine learning price forecasting will be performed with the data collected from the beginning of the project. During the beginning stages of the project, data has been collected for materials, pricing, and vendors. The required 1000 min lines of items will be utilized for the machine learning portion. 
 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture12.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture13.png)
+
 ### Questions to Answer
 1. What day of the week will electrical material be cheapest?
 2. Do small item costs also rise and fall with large item cost fluctuations?
