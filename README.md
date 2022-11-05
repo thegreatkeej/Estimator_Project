@@ -41,55 +41,35 @@ The goal is to
 - The automated pricing and machine learning price forecasting will be performed with the data collected from the beginning of the project. During the beginning stages of the project, data has been collected for materials, pricing, and vendors. The required 1000 min lines of items will be utilized for the machine learning portion. 
 
 ### Questions to Answer
-
+1. What day of the week will electrical material be cheapest?
+2. Do small item costs also rise and fall with large item cost fluctuations?
+3. Can we predict which vendor will be the cheapest?
 
 ### Machine Learning Model
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture9.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture10.png)
+*	Shown is 14 days of data (631 rows) The ML model will utilize two-sampled T-tests to determine: model (In progress) that will establish: 
+
+-   The correlation between cable and wire prices
+-   The correlation between conduit and fittings prices
+-   With the same data, I hope to create a logistic regression model (In progress) that will:
+	>   Predict which day of the week offers lowest price based on prices, vendor and location
+
+We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
 
 ### Database Integration
+•	Data is sent to pgAdmin and creates databases (see ERD, schema, code, and db's below).
+* ERD linking the tables
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture14.png)
+
+* Schema for table creation
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture15.png)
+
+* Jupyter notebook code to clean the data 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
 
 
-## III. Team Progress
-## Weekly Notes Board
-In this project, we are tracking prices for (16) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used (K. Fikiri 10/17/22).
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture1.png)
 
-### What the Current script does (see 'Working_Estimator_Script', 'clean_df.csv', 'working_df.csv'):
-
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture2.png)
-•	Grabs information (link, title, and price)
-
-•	Creates a ‘Vendor Location’ column (vendor names don’t already exist in the data I grabbed)
-
-•	Cleans raw data:
-
-  	o	Drops na’s
-
-  	o	Drops vendors with scaling issues
-
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture3.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture4.png)
-
-•	Returns a csv and excel with:	
-
-	o	Working data set that is cleaned and gives lowest prices
-
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture5.png)
-
-	o	Cleaned data set that gives all prices
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture6.png)
-
-### What Currently Needs Work (10/18 to 10/25):
-
--   Create data base 
--   Create code that automates the search so that our script scrapes the web once a day and sends data to website
--   Polish a deliverable “Segment 1”
-
-## Things to try (I used Python to search using a Home Depot product API and a Google Search API, but...)
-
--   Does someone want to try searching using JSON instead of Python?
--   Does someone want to try searching using a different type of API?
--   Does someone want to try web Scraping to get the data we need (for a list of the materials we are looking for, see ‘links.py’)
--   Does someone want to try creating an additional column that gives distance of vendor location to a specified zip code?
 
 
 
