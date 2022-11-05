@@ -10,6 +10,10 @@ To save time, estimators do not scour the web to price every small item. For exa
 ## What we are Doing Here
 To save estimators time, We are creating a live HTML/website that uses APIs to search material prices of three electrical materials suppliers. With the data collected, we will produce a table that can be updated daily. This table will list material prices and our algorithm will choose the cheapest priced items of the day to populate our table.
 
+## Tableau Interactive Website
+
+[The Estimator Project](https://public.tableau.com/app/profile/sarah.michelle4772/viz/TheEstimatorProject/Story1?publish=yes)
+
 ## Results
 At the completion of this project, we hope to:
 ·       Save time and money for estimators bidding projects by retrieving the lowest prices and the locations of the product.
