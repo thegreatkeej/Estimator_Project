@@ -10,6 +10,10 @@ To save time, estimators do not scour the web to price every small item. For exa
 ## What we are Doing Here
 To save estimators time, We are creating a live HTML/website that uses APIs to search material prices of three electrical materials suppliers. With the data collected, we will produce a table that can be updated daily. This table will list material prices and our algorithm will choose the cheapest priced items of the day to populate our table.
 
+## Tableau Interactive Website
+
+[The Estimator Project](https://public.tableau.com/app/profile/sarah.michelle4772/viz/TheEstimatorProject/Story1?publish=yes)
+
 ## Results
 At the completion of this project, we hope to:
 ·       Save time and money for estimators bidding projects by retrieving the lowest prices and the locations of the product.
@@ -52,6 +56,18 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 	o	Cleaned data set that gives all prices
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture6.png)
+
+![material.png](Tableau_Info/Images/material.png)
+
+![day.png](Tableau_Info/Images/day.png)
+
+![pop.png](Tableau_Info/Images/pop.png)
+
+![heat.png](Tableau_Info/Images/heat.png)
+
+![location.png](Tableau_Info/Images/location.png)
+
+![price.png](Tableau_Info/Images/price.png)
 
 ### What Currently Needs Work (10/18 to 10/25):
 
