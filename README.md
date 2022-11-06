@@ -12,7 +12,7 @@ Small items, typically purchased with large material, are not directly priced. R
 > When an electrician installs 10 feet of pipe they will also require two connectors, two straps and possibly one coupling for the installation. To account for the total cost, estimators will add on a percentage of the bid to cover the small items rather than pricing every small item.
 
 ### Approach
-To increase process efficiency, we are designing a live HTML/website powered by APIs to search prices from three electrical material suppliers. The data collected will be used to create a table on the website that is updated daily. Additionally, our algorithm will select the cheapest priced items of the day to populate the table. The Machine Learning aspect will inform us on price fluctuation to determine when material costs increase or decrease with respect to the day of the week. We will also look into any correlation between price increases in small items with respect to the primary items.
+To increase process efficiency, we are designing a live HTML/website powered by APIs to search prices from multiple electrical material suppliers. The data collected will be used to create a table on the website that is updated daily. Additionally, our algorithm will select the cheapest priced items of the day to populate the table. The Machine Learning aspect will inform us on price fluctuation to determine when material costs increase or decrease with respect to the day of the week. We will also look into any correlation between price increases in small items with respect to the primary items.
 
 ### Results
 The goal is to:
