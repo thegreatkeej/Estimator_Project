@@ -1,7 +1,14 @@
 Material Description,Material Price,Vendor,Location,Formatted Datetime,Days of the Week,zip,region,target price
-500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",10/22/2022 20:22:06,Saturday,30339,southeast,about average
-500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",10/22/2022 20:22:06,Saturday,98109,west,about average
-500 ft. 10 Gauge Black Stranded Copper THHN Wire,398.95,cooper-electric,"1 Matrix Drive. Monroe, NJ, 08831",10/22/2022 20:22:06,Saturday,08831,northeast,high price
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,145.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",10/20/2022 20:22,Thursday,30339,southeast,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,171.5,amazon,"410 Terry Ave N. Seattle, WA, 98109",10/20/2022 20:22,Thursday,98109,west,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,398.95,cooper-electric,"1 Matrix Drive. Monroe, NJ, 08831",10/20/2022 20:22,Thursday,08831,northeast,high price
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",10/21/2022 15:55,Friday,30339,southeast,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,171.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",10/21/2022 15:55,Friday,98109,west,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,398.95,cooper-electric,"1 Matrix Drive. Monroe, NJ, 08831",10/21/2022 15:55,Friday,08831,northeast,high price
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,165.0,wireandcableyourway,"1431 7th St Ste 204. Santa Monica, California, 90401",10/21/2022 15:55,Friday,90401,west,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",10/22/2022 20:22,Saturday,30339,southeast,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",10/22/2022 20:22,Saturday,98109,west,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,398.95,cooper-electric,"1 Matrix Drive. Monroe, NJ, 08831",10/22/2022 20:22,Saturday,08831,northeast,high price
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,145.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",10/23/2022 23:33:41,Sunday,30339,southeast,about average
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,155.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",10/23/2022 23:33:41,Sunday,98109,west,about average
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,398.95,cooper-electric,"1 Matrix Drive. Monroe, NJ, 08831",10/23/2022 23:33:41,Sunday,08831,northeast,high price
@@ -44,3 +51,6 @@ Material Description,Material Price,Vendor,Location,Formatted Datetime,Days of t
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",11/07/2022 14:15:45,Monday,30339,southeast,about average
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,155.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",11/07/2022 14:15:45,Monday,98109,west,about average
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,165.0,wireandcableyourway,"1431 7th St Ste 204. Santa Monica, California, 90401",11/07/2022 14:15:45,Monday,90401,west,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",11/08/2022 18:35:30,Tuesday,30339,southeast,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,155.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",11/08/2022 18:35:30,Tuesday,98109,west,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,165.0,wireandcableyourway,"1431 7th St Ste 204. Santa Monica, California, 90401",11/08/2022 18:35:30,Tuesday,90401,west,about average
