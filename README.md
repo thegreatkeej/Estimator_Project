@@ -1,72 +1,80 @@
 # Estimator_Project
 (THIS PROJECT IS CURRENTLY IN PROGRESS)
 
-## Problem Specification #1
-I am an estimator. In the old days when we needed to price materials, we would look at a “hot sheet” (a list of materials and their prices generated once a quarter). Now, due to the crazy rise in inflation, material prices must be generated the day the estimate is created. Many hours are lost scouring the net looking for current material prices.
+## I. Project Summary
+### Motivation
+The supply chain industry utilizes a "hot sheet" (a list of materials and their prices generated once a quarter) to price their materials. With the rise of inflation, companes have resorted to pricing materials on a daily basis. This increase in pricing frequency leads to excessive hours spent scouring the net searching for current material costs.
 
-## Problem Specification #2
-To save time, estimators do not scour the web to price every small item. For example, when an electrician installs 10 feet of pipe, in addition to the pipe, they will need two connectors, two straps and possibly one coupling. To Account for the costs, estimators will add on a percentage of the bid to cover the small items.
+### Background Information
+Small items, typically purchased with large material, are not directly priced. Rather, a percentage is tagged to the cost of the primary material to account for the cost of the small items.
 
-## What we are Doing Here
-To save estimators time, We are creating a live HTML/website that uses APIs to search material prices of three electrical materials suppliers. With the data collected, we will produce a table that can be updated daily. This table will list material prices and our algorithm will choose the cheapest priced items of the day to populate our table.
+*For example*
+> When an electrician installs 10 feet of pipe they will also require two connectors, two straps and possibly one coupling for the installation. To account for the total cost, estimators will add on a percentage of the bid to cover the small items rather than pricing every small item.
 
-## Results
-At the completion of this project, we hope to:
-·       Save time and money for estimators bidding projects by retrieving the lowest prices and the locations of the product.
-·       Create an automated table using Python script and APIs.
-·       use a multi linear regression model to see if there is a correlation between the increase of large electrical materials and small electrical materials so that we can more accurately estimate for small items.
-·       Visualizations that will show prices of materials on different days of the week. For example: If materials are cheaper on Thursday, we could generate savings by only purchasing materials on Thursday.
+### Approach
+To increase process efficiency, we are designing a live HTML/website powered by APIs to search prices from three electrical material suppliers. The data collected will be used to create a table on the website that is updated daily. Additionally, our algorithm will select the cheapest priced items of the day to populate the table. The Machine Learning aspect will inform us on price fluctuation to determine when material costs increase or decrease with respect to the day of the week. We will also look into any correlation between price increases in small items with respect to the primary items.
 
-## Protocols
-Members: Kijahre Fikiri, Nancy Fujikado, Sarah-Michelle Sanchez and Alexei Mendoza are the contibutors of this project.
+### Results
+The goal is to:
+-   Save time and money when retrieving the lowest prices (and the locations) of the product.
+-   Create an automated table using Python script and APIs.
+-   Use a multi linear regression model to identify a correlation between the increase of primary electrical materials and small electrical materials. (Estimate small material costs)
+-   Determine material price with respect to the day of the week. 
 
-### Description (communication and rules):
-1.	The contributors will meet durring normal class time (unless otherwise specified).
-2.	The main branch will only be merged with group consensus.
-3. 	Feel free to leave notes on the notes board. Please leave name and date along with any comments.
+<sub> For example: If materials are cheaper on Thursday, we could generate savings by only purchasing materials on Thursday. </sub>
 
-## Weekly Notes Board
-In this project, we are tracking prices for (16) items. Originally, we were going to find (3) vendors. I have script that will track the items we are looking for but will require more than (3) vendors to do it because not all vendors list their prices in the search I used (K. Fikiri 10/17/22).
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture1.png)
 
-### What the Current script does (see 'Working_Estimator_Script', 'clean_df.csv', 'working_df.csv'):
+## II. Protocols
+## Team Members
+-   Kijahre Fikiri
+-   Nancy Fujikado
+-   Sarah-Michelle Sanchez
+-   Alexei Mendoza
 
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture2.png)
-•	Grabs information (link, title, and price)
 
-•	Creates a ‘Vendor Location’ column (vendor names don’t already exist in the data I grabbed)
+### Communication
+-	The contributors will meet durring normal class time ( Monday & Wednesday) + one additional day during the week.
+-	The main branch will only be merged with group consensus.
+- 	Feel free to leave notes on the notes board. Please leave name and date along with any comments.
 
-•	Cleans raw data:
+### Data Source
+The automated pricing and machine learning price forecasting will be performed with the data collected from the beginning of the project. During the beginning stages of the project, data has been collected for materials, pricing, and vendors. The required 1000 min lines of items will be utilized for the machine learning portion. 
 
-  	o	Drops na’s
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture12.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture13.png)
 
-  	o	Drops vendors with scaling issues
+### Questions to Answer
+1. What day of the week will electrical material be cheapest?
+2. Do small item costs also rise and fall with large item cost fluctuations?
+3. Can we predict which vendor will be the cheapest?
 
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture3.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture4.png)
-•	Returns a csv and excel with:	
+### Machine Learning Model
+Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: model (In progress) that will establish: 
+-   The correlation between cable and wire prices
+-   The correlation between conduit and fittings prices
 
-	o	Working data set that is cleaned and gives lowest prices
+The goal is to create a logistic regression model (In progress) that will:
+	>   Predict which day of the week offers lowest price based on prices, vendor and location
+We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
 
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture5.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture9.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture10.png)
 
-	o	Cleaned data set that gives all prices
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture6.png)
 
-### What Currently Needs Work (10/18 to 10/25):
+### Database Integration
+Data is sent to pgAdmin and creates databases
+* ERD linking the tables
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture14.png)
 
-•	Create data base 
+* Schema for table creation
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture15.png)
 
-•	Create code that automates the search so that our script scrapes the web once a day and sends data to website
+* Jupyter notebook code to clean the data 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
 
-•	Polish a deliverable “Segment 1”
 
-## Things to try (I used Python to search using a Home Depot product API and a Google Search API, but...)
 
-•	Does someone want to try searching using JSON instead of Python?
 
-•	Does someone want to try searching using a different type of API?
 
-•	Does someone want to try web Scraping to get the data we need (for a list of the materials we are looking for, see ‘links.py’)
 
-•	Does someone want to try creating an additional column that gives distance of vendor location to a specified zip code?
+
