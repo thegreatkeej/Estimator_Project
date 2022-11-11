@@ -73,7 +73,7 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 ![count.png](Tableau_Info/Images/count.png)
 
-![add.png](Tableau_Info/Images/add.png)
+![addr.png](Tableau_Info/Images/addr.png)
 
 ### What Currently Needs Work (10/18 to 10/25):
 
