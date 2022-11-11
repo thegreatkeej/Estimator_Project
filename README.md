@@ -71,6 +71,8 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 ![high_low.png](Tableau_Info/Images/high_low.png)
 
+![count.png](Tableau_Info/Images/count.png)
+
 ### What Currently Needs Work (10/18 to 10/25):
 
 •	Create data base 
