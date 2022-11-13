@@ -3,7 +3,7 @@
 
 ## TEAM UPDATES
 
-see google slides: https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_24
+see google slides: www.Team14.com
 
 
 ## I. Project Summary
