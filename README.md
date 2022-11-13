@@ -63,6 +63,7 @@ We will be using an unsupervised machine learning model that will sub-categorize
 
 ### Database Integration
 Data is sent to pgAdmin and creates databases
+
 * ERD linking the tables
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture14.png)
 
