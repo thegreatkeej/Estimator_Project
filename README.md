@@ -77,6 +77,8 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 ![reg.png](Tableau_Info/Images/reg.png)
 
+![price_reg.png](Tableau_Info/Images/price_reg.png)
+
 ### What Currently Needs Work (10/18 to 10/25):
 
 •	Create data base 
