@@ -1,74 +1,91 @@
 # Estimator_Project
 (THIS PROJECT IS CURRENTLY IN PROGRESS)
 
-## Things I Did This Week:
+## Presentation Outline of Project
 
-•	I found a website that will run our script on a timed basis and hosts the results: deepnote link: https://deepnote.com/workspace/estimatorproject-6166945d-6ec6-41f0-bb95-87f4a60e4841/project/WorkingAutomatedEstimator-59dc3a3e-9636-43f0-9372-adacb8d143f7/notebook/Working_Estimator_Script-9386e927ee03453397c483eb80ef1906
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture7.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture8.png)
-•	I recreated a “Normalized” set of schemas for the data:
+### Selected topic:
+To save estimators time, we are using APIs to search material prices of multiple electrical materials suppliers. With the data collected, we produce two tables. One that is updated daily with the lowest prices and another that is also updated daily and consolidated. The consolidated data set will be used to establish price correlations between materials and make predictions.
 
-•	I sent data to pgAdmin and created databases (see ERD, schema, code, and db's below).
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture14.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture15.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture9.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture10.png)
-•	I consolidated (14) days of data (631 rows) and started creating a two-sampled T-test to determine: model (In progress) that will establish: 
+### Reason topic was selected:
+I have been an electrical estimator for five years. In the beginning, when we were estimating jobs, we would use a Seasonally generated list of materials with prices. soon after the pandemic began, my boss instructed me to check material prices daily before submitting bids. Estimates that took 3 hours, now took six hours.
 
-	o	The correlation between cable and wire prices
+### Description of the source of data:
+We've chosen 16 commonly used electrical materials items to query. After some research, we determined that the Home Depot product API does the best job of grabbing electrical material items we tell it to look for by product id. We then Plug the 16 items into a Google search algorithm and extract the material name, the price, and the website link. Unfortunately, the Google search API does not have a vendor category so to extract the name of the vendor, we use Python to split the link. Our main source of data is generated daily and can contain up to twenty-seven vendors. We also have historical data but the best we could find only covers two vendors (Home Depot and Lowes) over a 120 day period.
+
+### Questions we hope to answer with the data:
+Small items, typically purchased with large materials, are not directly priced. Rather, a percentage is tagged to the cost of the primary material to account for the cost of the small items. It’s impractical to search out each individual small item and yet, the margin on electrical construction is so slim that even the price of small items can make a difference on the profit. The materials we are looking at can be placed in four categories: conduit, conduit fittings, cable and the wires that go inside the cables.
+
+Questions:
+o	Is there a correlation between the cost of conduit and fittings?
+o	Is there a correlation between the cost of cable and the wires they need?
+o	Is there a correlation between the cost of materials and the days of the week—in other words, is there a day of the week where materials are more expensive or less expensive And if so can we predict it?
+o	Is there a relationship between a vendor’s location or region and how much they charge?
+o	Is there a relationship between the size of the company and the discount it charges?
+
+### Description of the data exploration phase of the project:
+The API approach was our alternative to web scraping, but the data collected still requires a lot of cleaning. There are scaling issues, and naming issues (different manufacturers have slightly different names for the same items). Once we have created vendor columns, we then plug those vendor names into a slightly different Google shopping API and that returns addresses. From the address column, we create a region column. There is also a formatted datetime column and a synthetic column based on the datetime that gives us the day of the week. The system is not perfect, but it works well. Since October 20th, we have been collecting and consolidating data. We currently have over 1000 rows of cleaned data with several features (prices, location, region, day of the week) and targets (high prices, low prices, and about average prices).
+
+### Description of the analysis phase of the project
+1.	I ran the data through a Shapiro-Wilk test to determine if our material prices are normally distributed. As you can see from the table below, all p-values are less than .05 which means that our material prices data is not normally distributed. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture25.png)  
+
+2.	I checked to see if there was a correlation between:
+
+	a.	Conduit and coupling (fitting)
+
+	b.	Conduit and connector (fitting)
+
+	c.	#4 wire and #6 wire
 	
-	o	The correlation between conduit and fittings prices
+	d.	#6 wire and #10 wire
 
-•	With the same data, I hope to create a logistic regression model (In progress) that will:
-	
-	o	Predict which day of the week offers lowest price based on prices, vendor and location
+	e.	#10 wire and # 4 wire
+#### Results: some of the tests came close (#10 wire and # 4 wire and 1” conduit to 1” fittings) but none of the items I tested were greater than the 0.05 p-value needed to establish correlation.![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture26.png)
+In hindsight, there is likely a correlation between the price of finished materials and the raw materials needed to make them (copper to wire and steel to conduit). I’m planning to add the following features:
 
-•	I also hope to find insight by using an unsupervised machine learning model that will sub-categorize my data by material item.
-	
+	•	Price of copper per pound (10/20-11/19)
 
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture12.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture13.png)	
-	
-## What Currently Needs Work (10/31 to 11/6):
+	•	Price of steel per pound (10/20-11/19)
 
-•	Polish a deliverable “Segment 1”
+	•	Weight of materials item being queried
 
-•	We need historical data to create an effective predictive model and I don’t have it yet, however, we do have 540 rows of data and counting and I should be able to come up with something that predicts by the end of the week.
+	•	Size of vendor (is it a big or small company?)
+
+3.	Next I kept the price column and label encoded: material description, vendor, date, day of week, region, and target price to create a new data frame. I ran a correlation matrix and saw some connections. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture27.png)  
+
+4.	With the data encoded, I dropped “about average” to define a target of either “low price” or “high price”. With this done, I was able to separate my data into features (X) and target (y).
+
+5.	Finally, I split the data: test train split (Training data = 75% and Test data = 25%), scaled the data, created a Decision Tree model, fit the model and made predictions: Based on material name, price, vendor, date, day of week and region could I predict high or low prices.
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture28.png)
  
-•	Create structure of presentation
-
-•	Continue Power Point
-
-•	Create (3) new columns to add as features:
-
-	o	'below average price' (bolean yes or no generated by taking average of price category and multiplying by 85%...in other words, we are telling our algorythm to look for prices that are 15% below average)
-
-	o	'regional_location' 
-
-	o	'location' (see below)
-
-	o	'location' (location DB created 11/4/22: see below)
-
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture16.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture17.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture18.png)
+6.	Last, I created a confusion matrix and printed my results.
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture29.png)
+ 
 	
-## Problem Specification #1
-I am an estimator. In the old days when we needed to price materials, we would look at a “hot sheet” (a list of materials and their prices generated once a quarter). Now, due to the crazy rise in inflation, material prices must be generated the day the estimate is created. Many hours are lost scouring the net looking for current material prices.
+## What Currently Needs Work (11/14 to 11/20):
 
-## Problem Specification #2
-To save time, estimators do not scour the web to price every small item. For example, when an electrician installs 10 feet of pipe, in addition to the pipe, they will need two connectors, two straps and possibly one coupling. To Account for the costs, estimators will add on a percentage of the bid to cover the small items.
+•	Polish a deliverable “Segment 3”
 
-## What we are Doing Here
-To save estimators time, We are creating a live HTML/website that uses APIs to search material prices of three electrical materials suppliers. With the data collected, we will produce a table that can be updated daily. This table will list material prices and our algorithm will choose the cheapest priced items of the day to populate our table.
+•	Create (4) new columns to add as features:
 
-## Results
-At the completion of this project, we hope to:
-·       Save time and money for estimators bidding projects by retrieving the lowest prices and the locations of the product.
-·       Create an automated table using Python script and APIs.
-·       use a multi linear regression model to see if there is a correlation between the increase of large electrical materials and small electrical materials so that we can more accurately estimate for small items.
-·       Visualizations that will show prices of materials on different days of the week. For example: If materials are cheaper on Thursday, we could generate savings by only purchasing materials on Thursday.
+	o	'Price of copper per pound' 
+
+	o	'Price of steel per pound' 
+
+	o	'Weight of materials item'
+
+	o	'Vendor size (size of company=> bolean=> 'large' or 'small')
+
+•	Polish PGAdmin Databases
+
+•	Re-run model with added features and multiple predictions
+
+•	Discuss structure of presentation
+
+•	Complete Dashboard
+
+•	Complete Power Point
+ 
+•	Practice structure of presentation
 
 ## Protocols
 Members: Kijahre Fikiri, Nancy Fujikado, Sarah-Michelle Sanchez and Alexei Mendoza are the contibutors of this project.
@@ -105,13 +122,3 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 
 	o	Cleaned data set that gives all prices
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture6.png)
-
-## Things to try (I used Python to search using a Home Depot product API and a Google Search API, but...)
-
-•	Does someone want to try searching using JSON instead of Python?
-
-•	Does someone want to try searching using a different type of API?
-
-•	Does someone want to try web Scraping to get the data we need (for a list of the materials we are looking for, see ‘links.py’)
-
-•	Does someone want to try creating an additional column that gives distance of vendor location to a specified zip code?
