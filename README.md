@@ -1,6 +1,11 @@
 # Estimator_Project
 (THIS PROJECT IS CURRENTLY IN PROGRESS)
 
+## TEAM UPDATES
+
+see google slides: https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_24
+
+
 ## I. Project Summary
 ### Motivation
 The supply chain industry utilizes a "hot sheet" (a list of materials and their prices generated once a quarter) to price their materials. With the rise of inflation, companes have resorted to pricing materials on a daily basis. This increase in pricing frequency leads to excessive hours spent scouring the net searching for current material costs.
