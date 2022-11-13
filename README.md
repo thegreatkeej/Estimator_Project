@@ -73,7 +73,9 @@ Data is sent to pgAdmin and creates databases
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
 
 
-
+### Presentation and Dashboard
+The presentation adn dashboard blueprint can be found on these google slides:
+https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_24
 
 
 
