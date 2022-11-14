@@ -61,23 +61,6 @@ The automated pricing and machine learning price forecasting will be performed w
 6.	Is there a relationship between the size of the company and the discount it charges?
 
 
-### Machine Learning Model
-Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: 
--   The correlation between cable and wire prices
--   The correlation between conduit and fittings prices
-
-The goal is to create a logistic regression model (In progress) that will:
-	- Predict which day of the week offers lowest price based on prices, vendor and location
-We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
-
-* Seperate data into features (X) and target (y)
-* Split data into test and train
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture28.png)
-
-* Decision Tree model
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture29.png)
-
-
 ### Database Integration
 Data is sent to pgAdmin and creates databases
 
@@ -93,6 +76,26 @@ Data is sent to pgAdmin and creates databases
 * Merged master table
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/concatenated_results.png)
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/concatenated_results2.png)
+
+
+### Machine Learning Model
+Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: 
+-   The correlation between cable and wire prices
+-   The correlation between conduit and fittings prices
+
+The goal is to create a logistic regression model (In progress) that will:
+-	Predict which day of the week offers lowest price based on prices, vendor and location
+We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
+
+* Seperate data into features (X) and target (y)
+* Split data into test and train
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture28.png)
+
+* Decision Tree model
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture29.png)
+
+
+
 
 
 
