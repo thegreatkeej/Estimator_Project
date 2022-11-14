@@ -26,7 +26,7 @@ o	Is there a relationship between the size of the company and the discount it ch
 The API approach was our alternative to web scraping, but the data collected still requires a lot of cleaning. There are scaling issues, and naming issues (different manufacturers have slightly different names for the same items). Once we have created vendor columns, we then plug those vendor names into a slightly different Google shopping API and that returns addresses. From the address column, we create a region column. There is also a formatted datetime column and a synthetic column based on the datetime that gives us the day of the week. The system is not perfect, but it works well. Since October 20th, we have been collecting and consolidating data. We currently have over 1000 rows of cleaned data with several features (prices, location, region, day of the week) and targets (high prices, low prices, and about average prices).
 
 ### Description of the analysis phase of the project
-1.	I ran the data through a Shapiro-Wilk test to determine if our material prices are normally distributed. As you can see from the table below, all p-values are less than .05 which means that our material prices data is not normally distributed. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture25.png)  
+1.	1.	I ran the data through a Shapiro-Wilk test to determine if our material prices are normally distributed. As you can see from the table below, all p-values are less than .05 which means that our material prices are normally distributed. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture25.png)  
 
 2.	I checked to see if there was a correlation between:
 
@@ -39,7 +39,7 @@ The API approach was our alternative to web scraping, but the data collected sti
 	d.	#6 wire and #10 wire
 
 	e.	#10 wire and # 4 wire
-#### Results: some of the tests came close (#10 wire and # 4 wire and 1” conduit to 1” fittings) but none of the items I tested were greater than the 0.05 p-value needed to establish correlation.![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture26.png)
+#### Results: All the items I tested show correlation. All were less than a p-value of 0.05.![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture26.png)
 In hindsight, there is likely a correlation between the price of finished materials and the raw materials needed to make them (copper to wire and steel to conduit). I’m planning to add the following features:
 
 	•	Price of copper per pound (10/20-11/19)
