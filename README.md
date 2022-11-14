@@ -85,6 +85,7 @@ Shown is 14 days of data (631 rows). This data has been collected by the team an
 
 The goal is to create a logistic regression model (In progress) that will:
 -	Predict which day of the week offers lowest price based on prices, vendor and location
+
 We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
 
 * Seperate data into features (X) and target (y)
