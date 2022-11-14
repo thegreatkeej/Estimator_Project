@@ -3,12 +3,12 @@
 
 ## Segment 2 Links
 
-` To see all current interactice graphs created in Tableau click here: [Tableau Link](https://public.tableau.com/app/profile/sarah.michelle4772/viz/TheEstimatorProject/Story1?publish=yes)
+-	To see all current interactice graphs created in Tableau click here: [Tableau Link](https://public.tableau.com/app/profile/sarah.michelle4772/viz/TheEstimatorProject/Story1?publish=yes)
 
 
-` To view the google slides click here: [Google Slides Link](https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_155)
+-	To view the google slides click here: [Google Slides Link](https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_155)
 
-- The googles slides will contain rubric points for ```Presentation```, ```Machine Learning Model``` description, ```Database``` description, and ```Dashboard``` blueprint.
+> The googles slides will contain rubric points for ```Presentation```, ```Machine Learning Model``` description, ```Database``` description, and ```Dashboard``` blueprint.
 
 ## I. Project Summary
 ### Motivation
