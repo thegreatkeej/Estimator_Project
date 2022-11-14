@@ -3,8 +3,8 @@
 
 ## Segment 2 Links
 
-[Tableau Link ](https://public.tableau.com/app/profile/sarah.michelle4772/viz/TheEstimatorProject/Story1?publish=yes)
-[Google Slides Link](https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_155)
+` To see all current interactice graphs created in Tableau click here: [Tableau Link](https://public.tableau.com/app/profile/sarah.michelle4772/viz/TheEstimatorProject/Story1?publish=yes)
+` To view the google slides click here: [Google Slides Link](https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_155)
 
 - The googles slides will contain rubric points for ```Presentation```, ```Machine Learning Model``` description, ```Database``` description, and ```Dashboard``` blueprint.
 
@@ -80,14 +80,5 @@ Data is sent to pgAdmin and creates databases
 * Jupyter notebook code to clean the data 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
 
-<<<<<<< HEAD
-
-### Presentation and Dashboard
-The presentation and dashboard blueprint can be found on these google slides:
-https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_24
 
 
-
-
-=======
->>>>>>> dbdcd58 (updated README)
