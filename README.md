@@ -53,21 +53,29 @@ The automated pricing and machine learning price forecasting will be performed w
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture13.png)
 
 ### Questions to Answer
-1. What day of the week will electrical material be cheapest?
-2. Do small item costs also rise and fall with large item cost fluctuations?
-3. Can we predict which vendor will be the cheapest?
+1.	Is there a correlation between the cost of conduit and fittings?
+2.	Is there a correlation between the cost of cable and the wires they require?
+3.	Is there a correlation between the cost of materials and the days of the week
+4.	Increase/decrease in material cost per day and if so can we predict the day?
+5.	Is there a relationship between a vendor’s location or region and how much they charge?
+6.	Is there a relationship between the size of the company and the discount it charges?
+
 
 ### Machine Learning Model
-Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: model (In progress) that will establish: 
+Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: 
 -   The correlation between cable and wire prices
 -   The correlation between conduit and fittings prices
 
 The goal is to create a logistic regression model (In progress) that will:
-	>   Predict which day of the week offers lowest price based on prices, vendor and location
+	-	Predict which day of the week offers lowest price based on prices, vendor and location
 We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
 
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture9.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture10.png)
+* Seperate data into features (X) and target (y)
+* Split data into test and train
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture28.png)
+
+* Decision Tree model
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture29.png)
 
 
 ### Database Integration
