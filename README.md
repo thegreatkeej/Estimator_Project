@@ -1,6 +1,13 @@
 # Estimator_Project
 (THIS PROJECT IS CURRENTLY IN PROGRESS)
 
+## Segment 2 Links
+
+[Tableau Link ](https://public.tableau.com/app/profile/sarah.michelle4772/viz/TheEstimatorProject/Story1?publish=yes)
+[Google Slides Link](https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_155)
+
+- The googles slides will contain rubric points for ```Presentation```, ```Machine Learning Model``` description, ```Database``` description, and ```Dashboard``` blueprint.
+
 ## I. Project Summary
 ### Motivation
 The supply chain industry utilizes a "hot sheet" (a list of materials and their prices generated once a quarter) to price their materials. With the rise of inflation, companes have resorted to pricing materials on a daily basis. This increase in pricing frequency leads to excessive hours spent scouring the net searching for current material costs.
@@ -73,6 +80,7 @@ Data is sent to pgAdmin and creates databases
 * Jupyter notebook code to clean the data 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
 
+<<<<<<< HEAD
 
 ### Presentation and Dashboard
 The presentation and dashboard blueprint can be found on these google slides:
@@ -81,3 +89,5 @@ https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b
 
 
 
+=======
+>>>>>>> dbdcd58 (updated README)
