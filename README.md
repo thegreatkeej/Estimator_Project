@@ -74,13 +74,17 @@ We will be using an unsupervised machine learning model that will sub-categorize
 Data is sent to pgAdmin and creates databases
 
 * ERD linking the tables
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture14.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/pg_admin_ERD.png)
 
 * Schema for table creation
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture15.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture15.png)
 
 * Jupyter notebook code to clean the data 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
+
+* Merged master table
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/concatenated_results.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/concatenated_results2.png)
 
 
 
