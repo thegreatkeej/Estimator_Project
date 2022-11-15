@@ -1,7 +1,7 @@
 material_description,material_price,vendor,location,dow,zip,region,date,steel_price,copper_price,target_price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,355.5,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-10-20,1500.53,7585.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,425.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,1500.53,7585.5,about average
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,460.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-10-20,1500.53,7585.5,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,460.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-10-20,1500.53,7585.5,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-10-20,1500.53,7585.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-10-21,1580.45,7543.0,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Saturday,95125,west,2022-10-22,1545.64,7540.0,about average
@@ -63,11 +63,11 @@ material_description,material_price,vendor,location,dow,zip,region,date,steel_pr
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,392.7,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-10,1630.76,8062.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-10,1630.76,8062.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,1700.39,8440.5,low price
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,456.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,1700.39,8440.5,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,456.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,1700.39,8440.5,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,354.99,southwestlumber,"1917 S Avenue B. Yuma, AZ, 85364",Friday,85364,mountains,2022-11-11,1700.39,8440.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-11-11,1700.39,8440.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,1700.39,8440.5,low price
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,456.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",Saturday,98109,west,2022-11-12,1700.39,8440.5,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,456.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",Saturday,98109,west,2022-11-12,1700.39,8440.5,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,354.99,southwestlumber,"1917 S Avenue B. Yuma, AZ, 85364",Saturday,85364,mountains,2022-11-12,1700.39,8440.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Saturday,95125,west,2022-11-12,1700.39,8440.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,1700.39,8440.5,low price
@@ -79,3 +79,8 @@ material_description,material_price,vendor,location,dow,zip,region,date,steel_pr
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,354.99,southwestlumber,"1917 S Avenue B. Yuma, AZ, 85364",Monday,85364,mountains,2022-11-14,1716.12,8345.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Monday,95125,west,2022-11-14,1716.12,8345.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Monday,54703,northplaines,2022-11-14,1716.12,8345.5,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-15,1716.12,8345.5,low price
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,423.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Tuesday,98109,west,2022-11-15,1716.12,8345.5,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,354.99,southwestlumber,"1917 S Avenue B. Yuma, AZ, 85364",Tuesday,85364,mountains,2022-11-15,1716.12,8345.5,low price
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Tuesday,95125,west,2022-11-15,1716.12,8345.5,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Tuesday,54703,northplaines,2022-11-15,1716.12,8345.5,about average
