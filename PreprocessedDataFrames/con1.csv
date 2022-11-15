@@ -1,24 +1,28 @@
-material_description,material_price,vendor,location,dow,zip,region,date,steel_price,copper_price,target price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,1500.53,7585.5,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-21,1580.45,7543.0,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-10-22,1545.64,7540.0,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-10-23,1545.64,7540.0,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-24,1545.64,7540.0,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-10-25,1549.37,7534.85,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-27,1549.92,7775.85,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-28,1515.46,7619.25,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-31,1527.6,7522.5,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-01,1566.0,7742.35,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-02,1491.44,7702.5,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-03,1519.22,7509.5,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-04,1637.04,7902.35,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-05,1600.95,7953.85,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-06,1600.95,7953.85,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-07,1600.95,7953.85,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-08,1624.27,7973.0,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,1583.59,8033.85,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,2.29,wilmar,"28 Biopolis Road. Singapore, 138568",Wednesday,other,other,2022-11-09,1583.59,8033.85,high price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-10,1630.76,8062.5,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,1700.39,8062.5,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,1700.39,8062.5,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,1700.39,8062.5,low price
+material_description,material_price,vendor,location,dow,zip,region,date,steel_price,copper_price,target_price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,1500.53,7585.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-21,1580.45,7543.0,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-10-23,1545.64,7540.0,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-24,1545.64,7540.0,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-10-25,1549.37,7534.85,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-10-26,1569.01,7762.0,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-27,1549.92,7775.85,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-31,1527.6,7522.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.99,com/p/steel-city-emt-conduit-connector-785991183801,online,Monday,other,other,2022-10-31,1527.6,7522.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-01,1566.0,7742.35,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.99,com/p/steel-city-emt-conduit-connector-785991183801,online,Tuesday,other,other,2022-11-01,1566.0,7742.35,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-02,1491.44,7702.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.99,com/p/steel-city-emt-conduit-connector-785991183801,online,Wednesday,other,other,2022-11-02,1491.44,7702.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-03,1519.22,7509.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.99,com/p/steel-city-emt-conduit-connector-785991183801,online,Thursday,other,other,2022-11-03,1519.22,7509.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-04,1637.04,7902.35,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-05,1600.95,7953.85,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-06,1600.95,7953.85,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-07,1600.95,7953.85,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-08,1624.27,7973.0,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,1583.59,8033.85,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-10,1630.76,8062.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,1700.39,8440.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,1700.39,8440.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,1700.39,8440.5,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,0.98,elliottelectric,"2526 Stallings Dr. N Nacogdoches, TX 75964",Sunday,other,other,2022-11-13,1700.39,8440.5,low price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,1716.12,8345.5,high price

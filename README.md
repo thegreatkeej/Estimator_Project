@@ -20,13 +20,12 @@ o	Is there a correlation between the cost of conduit and fittings?
 o	Is there a correlation between the cost of cable and the wires they need?
 o	Is there a correlation between the cost of materials and the days of the week—in other words, is there a day of the week where materials are more expensive or less expensive And if so can we predict it?
 o	Is there a relationship between a vendor’s location or region and how much they charge?
-o	Is there a relationship between the size of the company and the discount it charges?
 
 ### Description of the data exploration phase of the project:
 The API approach was our alternative to web scraping, but the data collected still requires a lot of cleaning. There are scaling issues, and naming issues (different manufacturers have slightly different names for the same items). Once we have created vendor columns, we then plug those vendor names into a slightly different Google shopping API and that returns addresses. From the address column, we create a region column. There is also a formatted datetime column and a synthetic column based on the datetime that gives us the day of the week. The system is not perfect, but it works well. Since October 20th, we have been collecting and consolidating data. We currently have over 1000 rows of cleaned data with several features (prices, location, region, day of the week) and targets (high prices, low prices, and about average prices).
 
 ### Description of the analysis phase of the project
-1.	1.	I ran the data through a Shapiro-Wilk test to determine if our material prices are normally distributed. As you can see from the table below, all p-values are less than .05 which means that our material prices are normally distributed. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture25.png)  
+1.	I ran the data through a Shapiro-Wilk test to determine if our material prices are normally distributed. As you can see from the table below, all p-values are less than .05 which means that our material prices are normally distributed. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture25.png)  
 
 2.	I checked to see if there was a correlation between:
 
@@ -39,12 +38,17 @@ The API approach was our alternative to web scraping, but the data collected sti
 	d.	#6 wire and #10 wire
 
 	e.	#10 wire and # 4 wire
-#### Results: All the items I tested show correlation. All were less than a p-value of 0.05.![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture26.png)
-In hindsight, there is likely a correlation between the price of finished materials and the raw materials needed to make them (copper to wire and steel to conduit). I’m planning to add the following features:
+
+#### Results of Pearson Correlation Test: 
+All the items I tested show correlation. All were less than a p-value of 0.05.![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture26.png)
+Because there is likely a correlation between the price of finished materials and the raw materials needed to make them (copper to wire and steel to conduit), I added the following features:
 
 	•	Price of copper per pound (10/20-11/19)
 
 	•	Price of steel per pound (10/20-11/19)
+
+#### Insights:
+In the future, features that could be added to the data set are:
 
 	•	Weight of materials item being queried
 
@@ -65,19 +69,14 @@ In hindsight, there is likely a correlation between the price of finished materi
 
 •	Polish a deliverable “Segment 3”
 
-•	Create (4) new columns to add as features:
+•	Create (2) new models to answer other questions:
 
-	o	'Price of copper per pound' 
+	o	regression model that predicts day of the week for lowest prices
 
-	o	'Price of steel per pound' 
+	o	regression model that predicts region and lowest price 
 
-	o	'Weight of materials item'
-
-	o	'Vendor size (size of company=> bolean=> 'large' or 'small')
-
+	
 •	Polish PGAdmin Databases
-
-•	Re-run model with added features and multiple predictions
 
 •	Discuss structure of presentation
 
@@ -85,13 +84,13 @@ In hindsight, there is likely a correlation between the price of finished materi
 
 •	Complete Power Point
  
-•	Practice structure of presentation
+•	Practice presentation
 
 ## Protocols
 Members: Kijahre Fikiri, Nancy Fujikado, Sarah-Michelle Sanchez and Alexei Mendoza are the contibutors of this project.
 
 ### Description (communication and rules):
-1.	The contributors will meet durring normal class time (unless otherwise specified).
+1.	The contributors will meet during normal class time (unless otherwise specified).
 2.	The main branch will only be merged with group consensus.
 3. 	Feel free to leave notes on the notes board. Please leave name and date along with any comments.
 

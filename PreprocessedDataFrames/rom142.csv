@@ -1,4 +1,4 @@
-material_description,material_price,vendor,location,dow,zip,region,date,steel_price,copper_price,target price
+material_description,material_price,vendor,location,dow,zip,region,date,steel_price,copper_price,target_price
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,114.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-10-20,1500.53,7585.5,about average
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-10-20,1500.53,7585.5,high price
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,113.98,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-10-20,1500.53,7585.5,about average
@@ -76,21 +76,25 @@ material_description,material_price,vendor,location,dow,zip,region,date,steel_pr
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-10,1630.76,8062.5,about average
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,84.99,landmsupply,"1200 E Us Hwy 169. Grand Rapids, Minnesota, 55744",Thursday,55744,northplaines,2022-11-10,1630.76,8062.5,low price
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Thursday,other,other,2022-11-10,1630.76,8062.5,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,116.94,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,1700.39,8062.5,about average
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Friday,28117,east,2022-11-11,1700.39,8062.5,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-11-11,1700.39,8062.5,about average
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,117.0,socalelectric,"5512 West Pico Blvd. Los Angeles, CA, 90019",Friday,90019,west,2022-11-11,1700.39,8062.5,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,84.99,landmsupply,"1200 E Us Hwy 169. Grand Rapids, Minnesota, 55744",Friday,55744,northplaines,2022-11-11,1700.39,8062.5,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Friday,other,other,2022-11-11,1700.39,8062.5,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Saturday,28117,east,2022-11-12,1700.39,8062.5,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Saturday,95125,west,2022-11-12,1700.39,8062.5,about average
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,84.99,landmsupply,"1200 E Us Hwy 169. Grand Rapids, Minnesota, 55744",Saturday,55744,northplaines,2022-11-12,1700.39,8062.5,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Saturday,other,other,2022-11-12,1700.39,8062.5,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,110.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Saturday,92705,west,2022-11-12,1700.39,8062.5,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,116.93,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-11-13,1700.39,8062.5,about average
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Sunday,28117,east,2022-11-13,1700.39,8062.5,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-11-13,1700.39,8062.5,about average
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,124.0,socalelectric,"5512 West Pico Blvd. Los Angeles, CA, 90019",Sunday,90019,west,2022-11-13,1700.39,8062.5,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,84.99,landmsupply,"1200 E Us Hwy 169. Grand Rapids, Minnesota, 55744",Sunday,55744,northplaines,2022-11-13,1700.39,8062.5,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Sunday,other,other,2022-11-13,1700.39,8062.5,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,110.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Sunday,92705,west,2022-11-13,1700.39,8062.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,116.94,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,1700.39,8440.5,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Friday,28117,east,2022-11-11,1700.39,8440.5,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-11-11,1700.39,8440.5,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,117.0,socalelectric,"5512 West Pico Blvd. Los Angeles, CA, 90019",Friday,90019,west,2022-11-11,1700.39,8440.5,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,84.99,landmsupply,"1200 E Us Hwy 169. Grand Rapids, Minnesota, 55744",Friday,55744,northplaines,2022-11-11,1700.39,8440.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Friday,other,other,2022-11-11,1700.39,8440.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Saturday,28117,east,2022-11-12,1700.39,8440.5,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Saturday,95125,west,2022-11-12,1700.39,8440.5,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,84.99,landmsupply,"1200 E Us Hwy 169. Grand Rapids, Minnesota, 55744",Saturday,55744,northplaines,2022-11-12,1700.39,8440.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Saturday,other,other,2022-11-12,1700.39,8440.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,110.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Saturday,92705,west,2022-11-12,1700.39,8440.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,116.93,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-11-13,1700.39,8440.5,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Sunday,28117,east,2022-11-13,1700.39,8440.5,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-11-13,1700.39,8440.5,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,124.0,socalelectric,"5512 West Pico Blvd. Los Angeles, CA, 90019",Sunday,90019,west,2022-11-13,1700.39,8440.5,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,84.99,landmsupply,"1200 E Us Hwy 169. Grand Rapids, Minnesota, 55744",Sunday,55744,northplaines,2022-11-13,1700.39,8440.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Sunday,other,other,2022-11-13,1700.39,8440.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,110.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Sunday,92705,west,2022-11-13,1700.39,8440.5,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,116.93,amazon,"410 Terry Ave N. Seattle, WA, 98109",Monday,98109,west,2022-11-14,1716.12,8345.5,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Monday,95125,west,2022-11-14,1716.12,8345.5,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,124.0,socalelectric,"5512 West Pico Blvd. Los Angeles, CA, 90019",Monday,90019,west,2022-11-14,1716.12,8345.5,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,110.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Monday,92705,west,2022-11-14,1716.12,8345.5,low price

@@ -1,4 +1,4 @@
-material_description,material_price,vendor,location,dow,zip,region,date,steel_price,copper_price,target price
+material_description,material_price,vendor,location,dow,zip,region,date,steel_price,copper_price,target_price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,1500.53,7585.5,about average
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,613.64,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-10-20,1500.53,7585.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,1047.78,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-10-20,1500.53,7585.5,high price
@@ -51,12 +51,15 @@ material_description,material_price,vendor,location,dow,zip,region,date,steel_pr
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-09,1583.59,8033.85,about average
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-10,1630.76,8062.5,about average
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-10,1630.76,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,1700.39,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,1700.39,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-11-11,1700.39,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,1700.39,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Saturday,98109,west,2022-11-12,1700.39,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Saturday,95125,west,2022-11-12,1700.39,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,1700.39,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-11-13,1700.39,8062.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-11-13,1700.39,8062.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-11-11,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Saturday,98109,west,2022-11-12,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Saturday,95125,west,2022-11-12,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-11-13,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-11-13,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,1716.12,8345.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Monday,98109,west,2022-11-14,1716.12,8345.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.75,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Monday,95125,west,2022-11-14,1716.12,8345.5,about average
