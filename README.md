@@ -47,6 +47,8 @@ Because there is likely a correlation between the price of finished materials an
 
 	•	Price of steel per pound (10/20-11/19)
 
+	•	raw_materials (either copper or steel)
+
 #### Insights:
 In the future, features that could be added to the data set are:
 

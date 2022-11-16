@@ -1,76 +1,76 @@
-material_description,material_price,vendor,location,dow,zip,region,date,steel_price,copper_price,target_price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,1500.53,7585.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-10-20,1500.53,7585.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-10-20,1500.53,7585.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-21,1580.45,7543.0,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Friday,32219,southeast,2022-10-21,1580.45,7543.0,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Friday,60901,central,2022-10-21,1580.45,7543.0,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-10-22,1545.64,7540.0,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Saturday,32219,southeast,2022-10-22,1545.64,7540.0,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Saturday,60901,central,2022-10-22,1545.64,7540.0,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-24,1545.64,7540.0,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Monday,32219,southeast,2022-10-24,1545.64,7540.0,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Monday,60901,central,2022-10-24,1545.64,7540.0,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-10-25,1549.37,7534.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Tuesday,32219,southeast,2022-10-25,1549.37,7534.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Tuesday,60901,central,2022-10-25,1549.37,7534.85,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-10-26,1569.01,7762.0,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-10-26,1569.01,7762.0,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Wednesday,60901,central,2022-10-26,1569.01,7762.0,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-27,1549.92,7775.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-10-27,1549.92,7775.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-10-27,1549.92,7775.85,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-28,1515.46,7619.25,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Friday,32219,southeast,2022-10-28,1515.46,7619.25,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Friday,60901,central,2022-10-28,1515.46,7619.25,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-31,1527.6,7522.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Monday,32219,southeast,2022-10-31,1527.6,7522.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Monday,60901,central,2022-10-31,1527.6,7522.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-01,1566.0,7742.35,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,12.68,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Tuesday,28117,east,2022-11-01,1566.0,7742.35,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Tuesday,32219,southeast,2022-11-01,1566.0,7742.35,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Tuesday,60901,central,2022-11-01,1566.0,7742.35,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-02,1491.44,7702.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-11-02,1491.44,7702.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Wednesday,60901,central,2022-11-02,1491.44,7702.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-03,1519.22,7509.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-11-03,1519.22,7509.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-11-03,1519.22,7509.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-04,1637.04,7902.35,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Friday,32219,southeast,2022-11-04,1637.04,7902.35,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Friday,60901,central,2022-11-04,1637.04,7902.35,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-05,1600.95,7953.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Saturday,32219,southeast,2022-11-05,1600.95,7953.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Saturday,60901,central,2022-11-05,1600.95,7953.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-06,1600.95,7953.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Sunday,32219,southeast,2022-11-06,1600.95,7953.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Sunday,60901,central,2022-11-06,1600.95,7953.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-07,1600.95,7953.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Monday,32219,southeast,2022-11-07,1600.95,7953.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Monday,60901,central,2022-11-07,1600.95,7953.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-08,1624.27,7973.0,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,12.68,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Tuesday,28117,east,2022-11-08,1624.27,7973.0,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Tuesday,32219,southeast,2022-11-08,1624.27,7973.0,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Tuesday,60901,central,2022-11-08,1624.27,7973.0,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,1583.59,8033.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,12.68,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-09,1583.59,8033.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-11-09,1583.59,8033.85,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Wednesday,60901,central,2022-11-09,1583.59,8033.85,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-10,1630.76,8062.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-11-10,1630.76,8062.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-11-10,1630.76,8062.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,1700.39,8440.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Friday,32219,southeast,2022-11-11,1700.39,8440.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Friday,60901,central,2022-11-11,1700.39,8440.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,1700.39,8440.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Saturday,32219,southeast,2022-11-12,1700.39,8440.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Saturday,60901,central,2022-11-12,1700.39,8440.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,1700.39,8440.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Sunday,32219,southeast,2022-11-13,1700.39,8440.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Sunday,60901,central,2022-11-13,1700.39,8440.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,1716.12,8345.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Monday,32219,southeast,2022-11-14,1716.12,8345.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Monday,60901,central,2022-11-14,1716.12,8345.5,low price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-15,1716.12,8345.5,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Tuesday,32219,southeast,2022-11-15,1716.12,8345.5,about average
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Tuesday,60901,central,2022-11-15,1716.12,8345.5,low price
+material_description,material_price,vendor,location,dow,zip,region,date,raw_material,steel_price,copper_price,target_price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,steel,1500.53,7585.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-10-20,steel,1500.53,7585.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-10-20,steel,1500.53,7585.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-21,steel,1580.45,7543.0,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Friday,32219,southeast,2022-10-21,steel,1580.45,7543.0,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Friday,60901,central,2022-10-21,steel,1580.45,7543.0,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-10-22,steel,1545.64,7540.0,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Saturday,32219,southeast,2022-10-22,steel,1545.64,7540.0,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Saturday,60901,central,2022-10-22,steel,1545.64,7540.0,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-24,steel,1545.64,7540.0,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Monday,32219,southeast,2022-10-24,steel,1545.64,7540.0,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Monday,60901,central,2022-10-24,steel,1545.64,7540.0,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-10-25,steel,1549.37,7534.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Tuesday,32219,southeast,2022-10-25,steel,1549.37,7534.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Tuesday,60901,central,2022-10-25,steel,1549.37,7534.85,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-10-26,steel,1569.01,7762.0,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-10-26,steel,1569.01,7762.0,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.36,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Wednesday,60901,central,2022-10-26,steel,1569.01,7762.0,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-27,steel,1549.92,7775.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-10-27,steel,1549.92,7775.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-10-27,steel,1549.92,7775.85,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-28,steel,1515.46,7619.25,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Friday,32219,southeast,2022-10-28,steel,1515.46,7619.25,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Friday,60901,central,2022-10-28,steel,1515.46,7619.25,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-31,steel,1527.6,7522.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Monday,32219,southeast,2022-10-31,steel,1527.6,7522.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Monday,60901,central,2022-10-31,steel,1527.6,7522.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-01,steel,1566.0,7742.35,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,12.68,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Tuesday,28117,east,2022-11-01,steel,1566.0,7742.35,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Tuesday,32219,southeast,2022-11-01,steel,1566.0,7742.35,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Tuesday,60901,central,2022-11-01,steel,1566.0,7742.35,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-02,steel,1491.44,7702.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-11-02,steel,1491.44,7702.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Wednesday,60901,central,2022-11-02,steel,1491.44,7702.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-03,steel,1519.22,7509.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-11-03,steel,1519.22,7509.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.12,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-11-03,steel,1519.22,7509.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-04,steel,1637.04,7902.35,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Friday,32219,southeast,2022-11-04,steel,1637.04,7902.35,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Friday,60901,central,2022-11-04,steel,1637.04,7902.35,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-05,steel,1600.95,7953.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Saturday,32219,southeast,2022-11-05,steel,1600.95,7953.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Saturday,60901,central,2022-11-05,steel,1600.95,7953.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-06,steel,1600.95,7953.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Sunday,32219,southeast,2022-11-06,steel,1600.95,7953.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Sunday,60901,central,2022-11-06,steel,1600.95,7953.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-07,steel,1600.95,7953.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Monday,32219,southeast,2022-11-07,steel,1600.95,7953.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Monday,60901,central,2022-11-07,steel,1600.95,7953.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-08,steel,1624.27,7973.0,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,12.68,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Tuesday,28117,east,2022-11-08,steel,1624.27,7973.0,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Tuesday,32219,southeast,2022-11-08,steel,1624.27,7973.0,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.6,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Tuesday,60901,central,2022-11-08,steel,1624.27,7973.0,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,steel,1583.59,8033.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,12.68,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-09,steel,1583.59,8033.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-11-09,steel,1583.59,8033.85,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Wednesday,60901,central,2022-11-09,steel,1583.59,8033.85,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-10,steel,1630.76,8062.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-11-10,steel,1630.76,8062.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-11-10,steel,1630.76,8062.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,steel,1700.39,8440.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Friday,32219,southeast,2022-11-11,steel,1700.39,8440.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Friday,60901,central,2022-11-11,steel,1700.39,8440.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,steel,1700.39,8440.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Saturday,32219,southeast,2022-11-12,steel,1700.39,8440.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Saturday,60901,central,2022-11-12,steel,1700.39,8440.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,steel,1700.39,8440.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Sunday,32219,southeast,2022-11-13,steel,1700.39,8440.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Sunday,60901,central,2022-11-13,steel,1700.39,8440.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,steel,1716.12,8345.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Monday,32219,southeast,2022-11-14,steel,1716.12,8345.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Monday,60901,central,2022-11-14,steel,1716.12,8345.5,low price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-15,steel,1729.77,8345.5,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Tuesday,32219,southeast,2022-11-15,steel,1729.77,8345.5,about average
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,8.35,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Tuesday,60901,central,2022-11-15,steel,1729.77,8345.5,low price
