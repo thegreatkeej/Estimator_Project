@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/dist/estimator",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
