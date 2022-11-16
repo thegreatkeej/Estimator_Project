@@ -1,0 +1,86 @@
+-- Database: estimator_project
+
+-- DROP DATABASE IF EXISTS estimator_project;
+
+CREATE DATABASE estimator_project
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'C'
+    LC_CTYPE = 'C'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+
+	
+--create tables to hold raw data, (created primary key because schema wouldn't run without it for some reason but i do not use this as a primary key)
+CREATE TABLE working_df (
+	material_description VARCHAR (160),
+	material_price FLOAT PRIMARY KEY NOT NULL,
+	vendor TEXT,
+	links VARCHAR (200),
+	formatted_datetime DATE
+);
+
+CREATE TABLE material_description_table (
+	product_id TEXT,
+	material_description VARCHAR (160)
+);
+
+CREATE TABLE vendor_table (
+	vendor_id TEXT,
+	vendor TEXT,
+	locations VARCHAR (160)
+);
+
+CREATE TABLE clean_df (
+	material_description VARCHAR (160),
+	material_price FLOAT,
+	vendor TEXT,
+	links VARCHAR (200),
+	formatted_datetime DATE
+);
+
+
+
+--need to merge clean and working first, they have the same columns
+--create new table , run into trouble with maybe duplicates?
+--narrow down to one material description per vendor per datetime
+
+CREATE TABLE clean_working AS
+(
+(
+ SELECT 
+  * 
+   FROM clean_df
+)
+UNION
+(
+ SELECT 
+  * 
+   FROM working_df
+)
+)
+
+--now i can add vendor_id, and location
+
+CREATE TABLE clean_working_vendor AS
+(
+SELECT 
+ *
+  FROM clean_working
+   LEFT JOIN vendor_table
+    USING (vendor)
+)
+
+
+--now i can add product_id in a master table ( looking over raw data i should have a total of 61 rows)
+CREATE TABLE master AS
+(
+SELECT 
+ *
+  FROM clean_working_vendor
+   LEFT JOIN material_description_table
+    USING (material_description)
+)
+
+--master table is complete table for use with ML
