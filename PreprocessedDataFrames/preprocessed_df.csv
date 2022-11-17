@@ -38,7 +38,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,copper,1500.53,7585.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-10-20,copper,1500.53,7585.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,339.09,qcsupply,"574 Road 11. Schuyler, Nebraska, 68661",Thursday,68661,central,2022-10-20,copper,1500.53,7585.5,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,copper,1500.53,7585.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-10-20,copper,1500.53,7585.5,high price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,613.64,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-10-20,copper,1500.53,7585.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,1047.78,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-10-20,copper,1500.53,7585.5,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,355.5,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-10-20,copper,1500.53,7585.5,low price
@@ -85,7 +85,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-21,copper,1580.45,7543.0,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Friday,28117,east,2022-10-21,copper,1580.45,7543.0,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,339.09,qcsupply,"574 Road 11. Schuyler, Nebraska, 68661",Friday,68661,central,2022-10-21,copper,1580.45,7543.0,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-21,copper,1580.45,7543.0,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-10-21,copper,1580.45,7543.0,high price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,613.64,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-10-21,copper,1580.45,7543.0,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,1047.78,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-10-21,copper,1580.45,7543.0,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-10-21,copper,1580.45,7543.0,about average
@@ -151,7 +151,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Sunday,28117,east,2022-10-23,copper,1545.64,7540.0,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-10-23,copper,1545.64,7540.0,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,339.09,qcsupply,"574 Road 11. Schuyler, Nebraska, 68661",Sunday,68661,central,2022-10-23,copper,1545.64,7540.0,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-10-23,copper,1545.64,7540.0,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-10-23,copper,1545.64,7540.0,high price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,613.64,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-10-23,copper,1545.64,7540.0,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,1047.78,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-10-23,copper,1545.64,7540.0,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,425.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-10-23,copper,1545.64,7540.0,about average
@@ -200,7 +200,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Monday,28117,east,2022-10-24,copper,1545.64,7540.0,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Monday,95125,west,2022-10-24,copper,1545.64,7540.0,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,339.09,qcsupply,"574 Road 11. Schuyler, Nebraska, 68661",Monday,68661,central,2022-10-24,copper,1545.64,7540.0,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-24,copper,1545.64,7540.0,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-24,copper,1545.64,7540.0,high price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,613.64,amazon,"410 Terry Ave N. Seattle, WA, 98109",Monday,98109,west,2022-10-24,copper,1545.64,7540.0,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,1047.78,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Monday,95125,west,2022-10-24,copper,1545.64,7540.0,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,379.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-24,copper,1545.64,7540.0,low price
@@ -418,7 +418,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,200.02,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Monday,33009,southeast,2022-10-31,copper,1527.6,7522.5,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-31,copper,1527.6,7522.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Monday,28117,east,2022-10-31,copper,1527.6,7522.5,low price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-31,copper,1527.6,7522.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-31,copper,1527.6,7522.5,high price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,613.64,amazon,"410 Terry Ave N. Seattle, WA, 98109",Monday,98109,west,2022-10-31,copper,1527.6,7522.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,1047.78,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Monday,95125,west,2022-10-31,copper,1527.6,7522.5,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,379.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-10-31,copper,1527.6,7522.5,low price
@@ -547,7 +547,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-03,copper,1519.22,7509.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-03,copper,1519.22,7509.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,339.09,qcsupply,"574 Road 11. Schuyler, Nebraska, 68661",Thursday,68661,central,2022-11-03,copper,1519.22,7509.5,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-03,copper,1519.22,7509.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-03,copper,1519.22,7509.5,high price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,613.64,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-03,copper,1519.22,7509.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,1047.78,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-03,copper,1519.22,7509.5,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-03,copper,1519.22,7509.5,low price
@@ -689,7 +689,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Sunday,28117,east,2022-11-06,copper,1600.95,7953.85,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-06,copper,1600.95,7953.85,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Sunday,28117,east,2022-11-06,copper,1600.95,7953.85,low price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-06,copper,1600.95,7953.85,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-06,copper,1600.95,7953.85,high price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,614.28,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-11-06,copper,1600.95,7953.85,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,1047.78,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-11-06,copper,1600.95,7953.85,high price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-06,copper,1600.95,7953.85,low price
@@ -771,7 +771,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-08,copper,1624.27,7973.0,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Tuesday,28117,east,2022-11-08,copper,1624.27,7973.0,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Tuesday,95125,west,2022-11-08,copper,1624.27,7973.0,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-08,copper,1624.27,7973.0,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-08,copper,1624.27,7973.0,high price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,614.28,amazon,"410 Terry Ave N. Seattle, WA, 98109",Tuesday,98109,west,2022-11-08,copper,1624.27,7973.0,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Tuesday,95125,west,2022-11-08,copper,1624.27,7973.0,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-08,copper,1624.27,7973.0,low price
@@ -800,7 +800,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),11.03,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-09,steel,1583.59,8033.85,high price
 3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),6.45,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Wednesday,33009,southeast,2022-11-09,steel,1583.59,8033.85,high price
 1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,steel,1583.59,8033.85,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,117.7,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-09,copper,1583.59,8033.85,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,117.7,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-09,copper,1583.59,8033.85,about average
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-09,copper,1583.59,8033.85,high price
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-09,copper,1583.59,8033.85,about average
 250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,84.99,landmsupply,"1200 E Us Hwy 169. Grand Rapids, Minnesota, 55744",Wednesday,55744,northplaines,2022-11-09,copper,1583.59,8033.85,low price
@@ -814,8 +814,8 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,copper,1583.59,8033.85,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-09,copper,1583.59,8033.85,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-09,copper,1583.59,8033.85,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,copper,1583.59,8033.85,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-09,copper,1583.59,8033.85,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,copper,1583.59,8033.85,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-09,copper,1583.59,8033.85,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-09,copper,1583.59,8033.85,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-09,copper,1583.59,8033.85,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,511.7,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-09,copper,1583.59,8033.85,high price
@@ -858,7 +858,7 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-10,copper,1630.76,8062.5,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-10,copper,1630.76,8062.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-10,copper,1630.76,8062.5,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-10,copper,1630.76,8062.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-10,copper,1630.76,8062.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-10,copper,1630.76,8062.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,392.7,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-10,copper,1630.76,8062.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-10,copper,1630.76,8062.5,about average
@@ -892,8 +892,8 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Friday,28117,east,2022-11-11,copper,1700.39,8440.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-11-11,copper,1700.39,8440.5,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,339.09,qcsupply,"574 Road 11. Schuyler, Nebraska, 68661",Friday,68661,central,2022-11-11,copper,1700.39,8440.5,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,copper,1700.39,8440.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,copper,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,copper,1700.39,8440.5,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,copper,1700.39,8440.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Friday,95125,west,2022-11-11,copper,1700.39,8440.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Friday,30339,southeast,2022-11-11,copper,1700.39,8440.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,456.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",Friday,98109,west,2022-11-11,copper,1700.39,8440.5,high price
@@ -934,8 +934,8 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,copper,1700.39,8440.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Saturday,28117,east,2022-11-12,copper,1700.39,8440.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Saturday,95125,west,2022-11-12,copper,1700.39,8440.5,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,copper,1700.39,8440.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Saturday,98109,west,2022-11-12,copper,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,copper,1700.39,8440.5,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Saturday,98109,west,2022-11-12,copper,1700.39,8440.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Saturday,95125,west,2022-11-12,copper,1700.39,8440.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Saturday,30339,southeast,2022-11-12,copper,1700.39,8440.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,456.49,amazon,"410 Terry Ave N. Seattle, WA, 98109",Saturday,98109,west,2022-11-12,copper,1700.39,8440.5,high price
@@ -980,8 +980,8 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Sunday,28117,east,2022-11-13,copper,1700.39,8440.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-11-13,copper,1700.39,8440.5,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,352.78,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Sunday,33009,southeast,2022-11-13,copper,1700.39,8440.5,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,copper,1700.39,8440.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-11-13,copper,1700.39,8440.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,copper,1700.39,8440.5,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-11-13,copper,1700.39,8440.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.7,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Sunday,95125,west,2022-11-13,copper,1700.39,8440.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Sunday,30339,southeast,2022-11-13,copper,1700.39,8440.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,423.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Sunday,98109,west,2022-11-13,copper,1700.39,8440.5,about average
@@ -1018,14 +1018,14 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Monday,28117,east,2022-11-14,copper,1716.12,8345.5,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,copper,1716.12,8345.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,352.78,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Monday,33009,southeast,2022-11-14,copper,1716.12,8345.5,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,copper,1716.12,8345.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Monday,98109,west,2022-11-14,copper,1716.12,8345.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,copper,1716.12,8345.5,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Monday,98109,west,2022-11-14,copper,1716.12,8345.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.75,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Monday,95125,west,2022-11-14,copper,1716.12,8345.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,copper,1716.12,8345.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,423.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Monday,98109,west,2022-11-14,copper,1716.12,8345.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,354.99,southwestlumber,"1917 S Avenue B. Yuma, AZ, 85364",Monday,85364,mountains,2022-11-14,copper,1716.12,8345.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Monday,95125,west,2022-11-14,copper,1716.12,8345.5,about average
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Monday,54703,northplaines,2022-11-14,copper,1716.12,8345.5,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Monday,54703,northplaines,2022-11-14,copper,1716.12,8345.5,high price
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Monday,30339,southeast,2022-11-14,copper,1716.12,8345.5,about average
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,155.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",Monday,98109,west,2022-11-14,copper,1716.12,8345.5,low price
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,165.0,wireandcableyourway,"1431 7th St Ste 204. Santa Monica, California, 90401",Monday,90401,west,2022-11-14,copper,1716.12,8345.5,high price
@@ -1056,58 +1056,107 @@ material_description,material_price,vendor,location,dow,zip,region,date,raw_mate
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Tuesday,28117,east,2022-11-15,copper,1729.77,8345.5,low price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Tuesday,95125,west,2022-11-15,copper,1729.77,8345.5,high price
 250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,352.78,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Tuesday,33009,southeast,2022-11-15,copper,1729.77,8345.5,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-15,copper,1729.77,8345.5,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Tuesday,98109,west,2022-11-15,copper,1729.77,8345.5,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-15,copper,1729.77,8345.5,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Tuesday,98109,west,2022-11-15,copper,1729.77,8345.5,low price
 500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.75,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Tuesday,95125,west,2022-11-15,copper,1729.77,8345.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,409.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-15,copper,1729.77,8345.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,423.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Tuesday,98109,west,2022-11-15,copper,1729.77,8345.5,about average
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,354.99,southwestlumber,"1917 S Avenue B. Yuma, AZ, 85364",Tuesday,85364,mountains,2022-11-15,copper,1729.77,8345.5,low price
 500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Tuesday,95125,west,2022-11-15,copper,1729.77,8345.5,about average
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Tuesday,54703,northplaines,2022-11-15,copper,1729.77,8345.5,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Tuesday,54703,northplaines,2022-11-15,copper,1729.77,8345.5,high price
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,156.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Tuesday,30339,southeast,2022-11-15,copper,1729.77,8345.5,about average
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,154.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",Tuesday,98109,west,2022-11-15,copper,1729.77,8345.5,low price
 500 ft. 10 Gauge Black Stranded Copper THHN Wire,165.0,wireandcableyourway,"1431 7th St Ste 204. Santa Monica, California, 90401",Tuesday,90401,west,2022-11-15,copper,1729.77,8345.5,high price
-1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,7.22,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1697.4,8343.85,high price
-1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,steel,1697.4,8343.85,about average
-1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,4.49,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Wednesday,60901,central,2022-11-16,steel,1697.4,8343.85,low price
-1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,5.88,supplyworks,"6260 Abbott Dr. Omaha, Nebraska, 68110",Wednesday,68110,central,2022-11-16,steel,1697.4,8343.85,low price
-1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,5.88,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-11-16,steel,1697.4,8343.85,low price
-1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,7.24,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Wednesday,54703,northplaines,2022-11-16,steel,1697.4,8343.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1697.4,8343.85,high price
-3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-11-16,steel,1697.4,8343.85,about average
-1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,20.62,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1697.4,8343.85,about average
-1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,17.55,wilmar,"28 Biopolis Road. Singapore, 138568",Wednesday,other,other,2022-11-16,steel,1697.4,8343.85,low price
-1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,33.34,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Wednesday,33009,southeast,2022-11-16,steel,1697.4,8343.85,high price
-3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),2.98,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1697.4,8343.85,low price
-3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,steel,1697.4,8343.85,high price
-3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),2.98,pinterest,"651 Brannan St. San Francisco, CA, 94107",Wednesday,94107,west,2022-11-16,steel,1697.4,8343.85,low price
-1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1697.4,8343.85,high price
-3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),4.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1697.4,8343.85,low price
-3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,steel,1697.4,8343.85,about average
-3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),20.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,steel,1697.4,8343.85,high price
-1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1697.4,8343.85,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,116.91,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,copper,1697.4,8343.85,about average
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,copper,1697.4,8343.85,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-16,copper,1697.4,8343.85,about average
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,124.0,socalelectric,"5512 West Pico Blvd. Los Angeles, CA, 90019",Wednesday,90019,west,2022-11-16,copper,1697.4,8343.85,high price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Wednesday,other,other,2022-11-16,copper,1697.4,8343.85,low price
-250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,110.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Wednesday,92705,west,2022-11-16,copper,1697.4,8343.85,low price
-250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire,167.24,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1697.4,8343.85,high price
-250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire,158.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,copper,1697.4,8343.85,low price
-250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire,135.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Wednesday,92705,west,2022-11-16,copper,1697.4,8343.85,low price
-250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1697.4,8343.85,high price
-250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,copper,1697.4,8343.85,high price
-250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1697.4,8343.85,low price
-250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,copper,1697.4,8343.85,low price
-250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-16,copper,1697.4,8343.85,high price
-250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,352.78,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Wednesday,33009,southeast,2022-11-16,copper,1697.4,8343.85,high price
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1697.4,8343.85,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,copper,1697.4,8343.85,about average
-500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.75,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-16,copper,1697.4,8343.85,about average
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,395.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1697.4,8343.85,low price
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,423.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,copper,1697.4,8343.85,about average
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-16,copper,1697.4,8343.85,about average
-500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Wednesday,54703,northplaines,2022-11-16,copper,1697.4,8343.85,about average
-500 ft. 10 Gauge Black Stranded Copper THHN Wire,149.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1697.4,8343.85,low price
-500 ft. 10 Gauge Black Stranded Copper THHN Wire,154.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,copper,1697.4,8343.85,low price
-500 ft. 10 Gauge Black Stranded Copper THHN Wire,165.0,wireandcableyourway,"1431 7th St Ste 204. Santa Monica, California, 90401",Wednesday,90401,west,2022-11-16,copper,1697.4,8343.85,high price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,7.22,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1699.31,8342.85,high price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,steel,1699.31,8342.85,about average
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,4.49,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Wednesday,60901,central,2022-11-16,steel,1699.31,8342.85,low price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,5.88,supplyworks,"6260 Abbott Dr. Omaha, Nebraska, 68110",Wednesday,68110,central,2022-11-16,steel,1699.31,8342.85,low price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,5.88,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-11-16,steel,1699.31,8342.85,low price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,7.24,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Wednesday,54703,northplaines,2022-11-16,steel,1699.31,8342.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1699.31,8342.85,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Wednesday,32219,southeast,2022-11-16,steel,1699.31,8342.85,about average
+1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,20.62,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1699.31,8342.85,about average
+1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,17.55,wilmar,"28 Biopolis Road. Singapore, 138568",Wednesday,other,other,2022-11-16,steel,1699.31,8342.85,low price
+1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,33.34,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Wednesday,33009,southeast,2022-11-16,steel,1699.31,8342.85,high price
+3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),2.98,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1699.31,8342.85,low price
+3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,steel,1699.31,8342.85,high price
+3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),2.98,pinterest,"651 Brannan St. San Francisco, CA, 94107",Wednesday,94107,west,2022-11-16,steel,1699.31,8342.85,low price
+1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1699.31,8342.85,high price
+3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),4.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1699.31,8342.85,low price
+3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,steel,1699.31,8342.85,about average
+3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),20.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,steel,1699.31,8342.85,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,steel,1699.31,8342.85,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,116.91,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,copper,1699.31,8342.85,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,copper,1699.31,8342.85,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-16,copper,1699.31,8342.85,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,124.0,socalelectric,"5512 West Pico Blvd. Los Angeles, CA, 90019",Wednesday,90019,west,2022-11-16,copper,1699.31,8342.85,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Wednesday,other,other,2022-11-16,copper,1699.31,8342.85,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,110.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Wednesday,92705,west,2022-11-16,copper,1699.31,8342.85,low price
+250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire,167.24,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1699.31,8342.85,high price
+250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire,158.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,copper,1699.31,8342.85,low price
+250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire,135.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Wednesday,92705,west,2022-11-16,copper,1699.31,8342.85,low price
+250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1699.31,8342.85,high price
+250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,copper,1699.31,8342.85,high price
+250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1699.31,8342.85,low price
+250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Wednesday,28117,east,2022-11-16,copper,1699.31,8342.85,low price
+250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-16,copper,1699.31,8342.85,high price
+250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,352.78,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Wednesday,33009,southeast,2022-11-16,copper,1699.31,8342.85,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,765.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1699.31,8342.85,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.6,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,copper,1699.31,8342.85,low price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.75,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-16,copper,1699.31,8342.85,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,395.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1699.31,8342.85,low price
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,423.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,copper,1699.31,8342.85,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Wednesday,95125,west,2022-11-16,copper,1699.31,8342.85,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Wednesday,54703,northplaines,2022-11-16,copper,1699.31,8342.85,high price
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,149.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Wednesday,30339,southeast,2022-11-16,copper,1699.31,8342.85,low price
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,154.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",Wednesday,98109,west,2022-11-16,copper,1699.31,8342.85,low price
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,165.0,wireandcableyourway,"1431 7th St Ste 204. Santa Monica, California, 90401",Wednesday,90401,west,2022-11-16,copper,1699.31,8342.85,high price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,7.22,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,high price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-17,steel,1674.62,8339.17,about average
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,4.49,gordonelectricsupply,"1290 N Hobbie Ave. Kankakee, Illinois, 60901",Thursday,60901,central,2022-11-17,steel,1674.62,8339.17,low price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,5.88,supplyworks,"6260 Abbott Dr. Omaha, Nebraska, 68110",Thursday,68110,central,2022-11-17,steel,1674.62,8339.17,low price
+1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,7.24,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Thursday,54703,northplaines,2022-11-17,steel,1674.62,8339.17,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,11.91,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,high price
+3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,10.47,ebarnett,"4601 Bulls Bay Hwy #100. Jacksonville, FL, 32219",Thursday,32219,southeast,2022-11-17,steel,1674.62,8339.17,about average
+1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,20.62,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,about average
+1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,17.55,wilmar,"28 Biopolis Road. Singapore, 138568",Thursday,other,other,2022-11-17,steel,1674.62,8339.17,low price
+1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit,33.34,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Thursday,33009,southeast,2022-11-17,steel,1674.62,8339.17,high price
+1/2 in. Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),3.98,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,low price
+1/2 in. Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),5.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-17,steel,1674.62,8339.17,high price
+3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),2.98,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,low price
+3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack),5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-17,steel,1674.62,8339.17,high price
+1 in. Electric Metallic Tube (EMT) Set-Screw Coupling,1.15,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,high price
+1/2 in. Electrical Metallic Tube (EMT) Set-Screw Connectors (5-Pack),3.98,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,low price
+1/2 in. Electrical Metallic Tube (EMT) Set-Screw Connectors (5-Pack),5.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-17,steel,1674.62,8339.17,high price
+1/2 in. Electrical Metallic Tube (EMT) Set-Screw Connectors (5-Pack),5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-17,steel,1674.62,8339.17,high price
+1/2 in. Electrical Metallic Tube (EMT) Set-Screw Connectors (5-Pack),9.99,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-17,steel,1674.62,8339.17,high price
+3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),4.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,low price
+3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),5.99,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-17,steel,1674.62,8339.17,about average
+3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack),20.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-17,steel,1674.62,8339.17,high price
+1 in. Electrical Metallic Tube (EMT) Set-Screw Connector,1.6,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,steel,1674.62,8339.17,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,copper,1674.62,8339.17,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,116.94,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-17,copper,1674.62,8339.17,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,118.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-17,copper,1674.62,8339.17,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,111.07,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-17,copper,1674.62,8339.17,about average
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,124.0,socalelectric,"5512 West Pico Blvd. Los Angeles, CA, 90019",Thursday,90019,west,2022-11-17,copper,1674.62,8339.17,high price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,90.0,com/products/southwire-romex-simpull-250-ft-14-2-solid-non-metallic-wire-by-the-roll,online,Thursday,other,other,2022-11-17,copper,1674.62,8339.17,low price
+250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire,110.0,procuru,"1220 Village Way #A. Santa Ana, CA, 92705",Thursday,92705,west,2022-11-17,copper,1674.62,8339.17,low price
+250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire,167.24,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,copper,1674.62,8339.17,high price
+250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire,159.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-17,copper,1674.62,8339.17,about average
+250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,copper,1674.62,8339.17,high price
+250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire,149.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-17,copper,1674.62,8339.17,high price
+250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,279.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,copper,1674.62,8339.17,low price
+250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,289.0,lowes,"1000 Lowe's Blvd. Mooresville, NC, 28117",Thursday,28117,east,2022-11-17,copper,1674.62,8339.17,low price
+250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,315.01,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-17,copper,1674.62,8339.17,high price
+250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire,352.78,dkhardware,"1835 E Hallandale Bch 264 Hallandale. Beach, FL, 33009",Thursday,33009,southeast,2022-11-17,copper,1674.62,8339.17,high price
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,739.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,copper,1674.62,8339.17,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,681.14,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-17,copper,1674.62,8339.17,about average
+500 ft. 4 Gauge Black Stranded Copper THHN Wire,634.75,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-17,copper,1674.62,8339.17,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,395.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,copper,1674.62,8339.17,low price
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,423.0,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-17,copper,1674.62,8339.17,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,354.99,southwestlumber,"1917 S Avenue B. Yuma, AZ, 85364",Thursday,85364,mountains,2022-11-17,copper,1674.62,8339.17,low price
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,445.81,ebay,"2025 Hamilton Avenue. San Jose, California, 95125",Thursday,95125,west,2022-11-17,copper,1674.62,8339.17,about average
+500 ft. 6 Gauge Black Stranded Copper THHN Wire,449.0,menards,"4777 Menard Drive. Eau Claire, Wisconsin, 54703",Thursday,54703,northplaines,2022-11-17,copper,1674.62,8339.17,high price
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,149.0,homedepot,"2455 Paces Ferry Rd SE. Atlanta, GA, 30339",Thursday,30339,southeast,2022-11-17,copper,1674.62,8339.17,low price
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,159.99,amazon,"410 Terry Ave N. Seattle, WA, 98109",Thursday,98109,west,2022-11-17,copper,1674.62,8339.17,about average
+500 ft. 10 Gauge Black Stranded Copper THHN Wire,165.0,wireandcableyourway,"1431 7th St Ste 204. Santa Monica, California, 90401",Thursday,90401,west,2022-11-17,copper,1674.62,8339.17,high price

@@ -56,6 +56,8 @@ In the future, features that could be added to the data set are:
 
 	•	Size of vendor (is it a big or small company?)
 
+	•	Query for vendors within a 50 mile radius 
+
 3.	Next I kept the price column and label encoded: material description, vendor, date, day of week, region, and target price to create a new data frame. I ran a correlation matrix and saw some connections. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture27.png)  
 
 4.	With the data encoded, I dropped “about average” to define a target of either “low price” or “high price”. With this done, I was able to separate my data into features (X) and target (y).
