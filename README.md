@@ -5,10 +5,7 @@
 
 -	To see all current interactive graphs created in Tableau click here: [Tableau Link](https://public.tableau.com/app/profile/sarah.michelle4772/viz/TheEstimatorProject/Story1?publish=yes)
 
-
 -	To view the google slides click here: [Google Slides Link](https://docs.google.com/presentation/d/1RUfa2X6xtzW4mJGEE8MJqfQlXuMtYDLo9X-N807b-zg/edit#slide=id.g18bd216659f_0_155)
-
-> The googles slides will contain rubric points for ```Presentation```, ```Machine Learning Model``` description, ```Database``` description, and ```Dashboard``` blueprint.
 
 -	To view the current dashboard click here: [Dashboard](https://estimator-6cba7.web.app/results)
 
@@ -65,14 +62,16 @@ Data is sent to pgAdmin where a schema is used to generate tables and merge into
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/pg_admin_ERD.png)
 
 * Schema for table creation
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture15.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Schema_create_tables.png)
+
+* Schema for data merge 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Schema_merge.png)
 
 * Jupyter notebook code to clean the data 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
 
 * Merged master table
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/concatenated_results.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/concatenated_results2.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Merged_master.png)
 
 
 ### Machine Learning Model
@@ -80,8 +79,8 @@ This data has been collected by the team and will be used for the automated and 
 -   The correlation between cable and wire prices
 -   The correlation between conduit and fittings prices
 
-The project's ML is a logistic regression model that will:
--	Predict which day of the week offers lowest price based on prices, vendor, and location
+The project's ML is a logistic linear model. With it we wish to:
+- Predict which day of the week offers lowest price based on prices, vendor, and location
 
 We use an unsupervised machine learning model that will sub-categorize the data by material item.
 
