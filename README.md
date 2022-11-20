@@ -49,10 +49,9 @@ The automated and machine learning price forecasting will be performed with the 
 2.  Pricing
 3.  Vendor
 4.  Date
-5.  Price
-6.  Weblink
-7.  Location
-8.  Product ID
+5.  Weblink
+6.  Location
+7.  Product ID
 
 The required minimum of 1000 lines items will be met for the machine learning portion. As of 11/19/2022 the project is running off >1200-line items.
 
