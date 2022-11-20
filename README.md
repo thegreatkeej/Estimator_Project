@@ -15,7 +15,7 @@
 
 ## I. Project Summary
 ### Motivation
-The supply chain industry utilizes a "hot sheet" (a list of materials and their prices generated once a quarter) to price their materials. With the rise of inflation, companes have resorted to pricing materials on a daily basis. This increase in pricing frequency leads to excessive hours spent scouring the net searching for current material costs.
+The supply chain industry utilizes a "hot sheet" (a list of materials and their prices generated once a quarter) to price their materials. With the rise of inflation, companies have resorted to pricing materials on a daily basis. This increase in pricing frequency leads to excessive hours spent scouring the net searching for current material costs.
 
 ### Background Information
 Small items, typically purchased with large material, are not directly priced. Rather, a percentage is tagged to the cost of the primary material to account for the cost of the small items.
@@ -24,48 +24,43 @@ Small items, typically purchased with large material, are not directly priced. R
 > When an electrician installs 10 feet of pipe they will also require two connectors, two straps and possibly one coupling for the installation. To account for the total cost, estimators will add on a percentage of the bid to cover the small items rather than pricing every small item.
 
 ### Approach
-To increase process efficiency, we are designing a live HTML/website powered by APIs to search prices from three electrical material suppliers. The data collected will be used to create a table on the website that is updated daily. Additionally, our algorithm will select the cheapest priced items of the day to populate the table. The Machine Learning aspect will inform us on price fluctuation to determine when material costs increase or decrease with respect to the day of the week. We will also look into any correlation between price increases in small items with respect to the primary items.
+To increase process efficiency, we are designing a live HTML/website powered by APIs to search prices from 27 electrical material suppliers. The data collected will be used to create a table on the website that is updated daily. Additionally, our algorithm will select the cheapest priced items of the day to populate the table. The Machine Learning aspect will inform us on price fluctuation to determine when material costs increase or decrease with respect to the day of the week. We will also look into any correlation between price increases in small items with respect to primary items of interest.
 
-### Results
+### Goals
 The goal is to:
--   Save time and money when retrieving the lowest prices (and the locations) of the product.
--   Create an automated table using Python script and APIs.
+-   Save time and money when retrieving the lowest prices of product.
+  > This inccludes all features of interest explained in Database section
+-   Determine lowest priced items per day.
 -   Use a multi linear regression model to identify a correlation between the increase of primary electrical materials and small electrical materials. (Estimate small material costs)
 -   Determine material price with respect to the day of the week. 
-
-<sub> For example: If materials are cheaper on Thursday, we could generate savings by only purchasing materials on Thursday. </sub>
-
-
-## II. Protocols
-## Team Members
--   Kijahre Fikiri
--   Nancy Fujikado
--   Sarah-Michelle Sanchez
--   Alexei Mendoza
-
-
-### Communication
--	The contributors will meet durring normal class time ( Monday & Wednesday) + one additional day during the week.
--	The main branch will only be merged with group consensus.
-- 	Feel free to leave notes on the notes board. Please leave name and date along with any comments.
-
-### Data Source
-The automated pricing and machine learning price forecasting will be performed with the data collected from the beginning of the project. During the beginning stages of the project, data has been collected for materials, pricing, and vendors. The required 1000 min lines of items will be utilized for the machine learning portion. 
-
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture12.png)
-![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture13.png)
 
 ### Questions to Answer
 1.	Is there a correlation between the cost of conduit and fittings?
 2.	Is there a correlation between the cost of cable and the wires they require?
 3.	Is there a correlation between the cost of materials and the days of the week
-4.	Increase/decrease in material cost per day and if so can we predict the day?
+  > Increase/decrease in material cost per day and if so can we predict the day?
 5.	Is there a relationship between a vendor’s location or region and how much they charge?
-6.	Is there a relationship between the size of the company and the discount it charges?
 
+<sub> For example: If materials are cheaper on Thursday, we could generate savings by only purchasing materials on Thursday. </sub>
+
+### Data source
+The automated and machine learning price forecasting will be performed with the data collected from the beginning of the project. During the beginning stages of the project, data has been collected for the following features:
+1.  Materials
+2.  Pricing
+3.  Vendor
+4.  Date
+5.  Price
+6.  Weblink
+7.  Location
+8.  Product ID
+
+The required minimum of 1000 lines items will be met for the machine learning portion. As of 11/19/2022 the project is running off >1200 line items.
+
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture12.png)
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture13.png)
 
 ### Database Integration
-Data is sent to pgAdmin and creates databases
+Data is sent to pgAdmin where a schema is used to generate tables and merge into one large master table.
 
 * ERD linking the tables
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/PgAdmin_Alexei/pg_admin_ERD.png)
@@ -82,14 +77,14 @@ Data is sent to pgAdmin and creates databases
 
 
 ### Machine Learning Model
-Shown is 14 days of data (631 rows). This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: 
+This data has been collected by the team and will be used for the automated and ML model. The ML model will have more than the minimum 1000 rows expected in ML models. The ML model will utilize two-sampled T-tests to determine: 
 -   The correlation between cable and wire prices
 -   The correlation between conduit and fittings prices
 
-The goal is to create a logistic regression model (In progress) that will:
+The project's ML is a logistic regression model that will:
 -	Predict which day of the week offers lowest price based on prices, vendor and location
 
-We will be using an unsupervised machine learning model that will sub-categorize the data by material item.
+We use an unsupervised machine learning model that will sub-categorize the data by material item.
 
 * Seperate data into features (X) and target (y)
 * Split data into test and train
@@ -97,6 +92,21 @@ We will be using an unsupervised machine learning model that will sub-categorize
 
 * Decision Tree model
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture29.png)
+
+
+## II. Protocols
+## Team Members
+-   Kijahre Fikiri
+-   Nancy Fujikado
+-   Sarah-Michelle Sanchez
+-   Alexei Mendoza
+
+
+### Communication
+-	The contributors will meet durring normal class time ( Monday & Wednesday) + one additional day during the week.
+-	The main branch will only be merged with group consensus.
+- Individuals will add notes to their README or in a text file in their branch. 
+
 
 
 
