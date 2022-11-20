@@ -72,9 +72,8 @@ Data is sent to pgAdmin and creates databases
 * Jupyter notebook code to clean the data 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture11.png)
 
+### pgAdmin  Integration
 
-
-
-
+![pg_Admin_table_Data.png](PgAdmin_Alexei/images/pgAdmin_table_Data.png)
 
 
