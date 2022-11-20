@@ -1,7 +1,33 @@
 # Estimator_Project
-(THIS PROJECT IS CURRENTLY IN PROGRESS)
 
-## Presentation Outline of Project
+## Machine Learning Project Notes
+
+### Segment 3
+
+1.	ML: explanation of changes between segment 2
+
+In addition to the models we already had, we ran a Naïve-Bayes to account for prior probability.
+
+
+2.	Description of how we trained the model and additional training
+
+We imported ‘train_test_split’ from sklearn.model_selection and split our data 75% training data and 25% test data.
+
+
+3.	Description of current accuracy and address our questions 
+
+a.	Is there a correlation between the cost of conduit and fittings? YES
+
+b.	Is there a correlation between the cost of cable and the wires they require? YES
+
+c.	Can we use a machine learning model to predict cheap prices? ABSOLUTELY (99% accuracy and 98% precision) but may be overfit. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture35.png)
+
+d.	Is there a relationship between the cost of materials and the days of the week? YES, BUT NOT AS STRONG (67% accuracy and 71% precision). We noticed that accuracy and precision has been increasing as we increase our data. Also, the number of returned queries increases around weekends due to increased weekend advertising.
+queried.  ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture36.png)
+
+e.	Is there a relationship between a vendor’s location or region and how much they charge? YES, BUT NOT AS STRONG (69% accuracy and 75% precision). We noticed that precision has been increasing as we increase our data. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture37.png)
+
+
 
 ### Selected topic:
 To save estimators time, we are using APIs to search material prices of multiple electrical materials suppliers. With the data collected, we produce two tables. One that is updated daily with the lowest prices and another that is also updated daily and consolidated. The consolidated data set will be used to establish price correlations between materials and make predictions.
