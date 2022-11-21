@@ -1,0 +1,114 @@
+[
+ {
+   "material_description": "1 in. x 10 ft. Electric Metallic Tube (EMT) Conduit",
+   "product_id": 100400409,
+   "material_price": 20.62,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "3/4 in. x 10 ft. Electric Metallic Tube (EMT) Conduit",
+   "product_id": 100400406,
+   "material_price": 11.91,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "1/2 in. Electrical Metallic Tube (EMT) Set-Screw Connectors (5-Pack)",
+   "product_id": 100137321,
+   "material_price": 3.98,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "1/2 in. x 10 ft. Electric Metallic Tube (EMT) Conduit",
+   "product_id": 100400405,
+   "material_price": 7.22,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "1 in. Electric Metallic Tube (EMT) Set-Screw Coupling",
+   "product_id": 202241090,
+   "material_price": 1.15,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "1/2 in. Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack)",
+   "product_id": 100144234,
+   "material_price": 2.34,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "3/4 in. Electrical Metallic Tube (EMT) Set-Screw Connector (5-Pack)",
+   "product_id": 202077145,
+   "material_price": 3.68,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "1 in. Electrical Metallic Tube (EMT) Set-Screw Connector",
+   "product_id": 202077147,
+   "material_price": 1.28,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "3/4 in. Standard Fitting Electric Metallic Tube (EMT) Set-Screw Coupling (5-Pack)",
+   "product_id": 202288508,
+   "material_price": 2.98,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "500 ft. 4 Gauge Black Stranded Copper THHN Wire",
+   "product_id": 202304774,
+   "material_price": 787,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "500 ft. 6 Gauge Black Stranded Copper THHN Wire",
+   "product_id": 202304649,
+   "material_price": 425,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "500 ft. 10 Gauge Black Stranded Copper THHN Wire",
+   "product_id": 202304645,
+   "material_price": 159,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire",
+   "product_id": 202019377,
+   "material_price": 118,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire",
+   "product_id": 202316275,
+   "material_price": 159,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire",
+   "product_id": 202019375,
+   "material_price": 149,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ },
+ {
+   "material_description": "250 ft. 12/3 Solid Romex SIMpull CU NM-B W/G Wire",
+   "product_id": 202316276,
+   "material_price": 289,
+   "vendor_location": "Home Depot",
+   "formatted_datetime": "10/21/2022 16:08"
+ }
+]
