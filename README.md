@@ -57,6 +57,8 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 	o	Cleaned data set that gives all prices
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture6.png)
 
+## Tableau Work
+
 ![material.png](Tableau_Info/Images/material.png)
 
 ![day.png](Tableau_Info/Images/day.png)
@@ -80,6 +82,10 @@ In this project, we are tracking prices for (16) items. Originally, we were goin
 ![price_reg.png](Tableau_Info/Images/price_reg.png)
 
 ![copvsteel.png](Tableau_Info/Images/copvsteel.png)
+
+![in_de.png](Tableau_Info/Images/in_de.png)
+
+![reg_pri.png](Tableau_Info/Images/reg_pri.png)
 
 ### What Currently Needs Work (10/18 to 10/25):
 
