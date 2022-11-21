@@ -79,17 +79,33 @@ This data has been collected by the team and will be used for the automated and 
 -   The correlation between cable and wire prices
 -   The correlation between conduit and fittings prices
 
-The project's ML is a logistic linear model. With it we wish to:
+The project's ML is a logistic linear model will:
 - Predict which day of the week offers lowest price based on prices, vendor, and location
+> Expand on question in future analysis with a regression model. This would help us predict increase or decrease for following days, similar to how stock prices are predicted.
 
 We use an unsupervised machine learning model that will sub-categorize the data by material item.
 
 * Separate data into features (X) and target (y)
-* Split data into test and train
+* Split data into test and train. Imported ‘train_test_split’ from sklearn.model_selection and split our data 75% training data and 25% test data.
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture28.png)
 
 * Decision Tree model
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture29.png)
+
+* Accuracy and Precision
+
+* The machine learning model can predict the cheapest price with 99% accuracy and 98% precision) but may be overfit. 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture35.png)
+
+* There is a relationship between the cost of materials with respect to the days of the week. This correlation has a 67% accuracy and 71% precision. It has been noted that accuracy and precision increase as data increases. Additionally, the number of returned queries increases around weekends due to increased weekend advertising.
+
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture36.png)
+
+* There is a relationship between a vendor’s location or region and how much they charge. This correlation has 69% accuracy and 75% precision. Again, precision increases as data increases. 
+![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture37.png)
+
+* Changes between Segment 2 and Segment 3
+In addition to the models we already had, we ran a Naïve-Bayes to account for prior probability.
 
 
 ## II. Protocols
