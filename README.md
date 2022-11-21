@@ -92,7 +92,7 @@ We use an unsupervised machine learning model that will sub-categorize the data 
 * Decision Tree model
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/main/images/Picture29.png)
 
-* Accuracy and Precision
+##### Accuracy and Precision
 
 * The machine learning model can predict the cheapest price with 99% accuracy and 98% precision) but may be overfit. 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture35.png)
@@ -104,8 +104,8 @@ We use an unsupervised machine learning model that will sub-categorize the data 
 * There is a relationship between a vendor’s location or region and how much they charge. This correlation has 69% accuracy and 75% precision. Again, precision increases as data increases. 
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture37.png)
 
-* Changes between Segment 2 and Segment 3
-In addition to the models we already had, we ran a Naïve-Bayes to account for prior probability.
+Changes between Segment 2 and Segment 3
+* In addition to the models we already had, we ran a Naïve-Bayes to account for prior probability.
 
 
 ## II. Protocols
