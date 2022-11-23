@@ -1,5 +1,5 @@
 # Estimator_Project
-(THIS PROJECT IS CURRENTLY IN PROGRESS)
+
 
 ## Segment 2 & 3 Links
 
@@ -117,7 +117,7 @@ Changes between Segment 2 and Segment 3
 
 
 ### Communication
--	The contributors will meet during normal class time ( Monday & Wednesday) + one additional day during the week.
+-	The contributors will meet ( Monday & Wednesday) @ 7pm + one additional day during the week.
 -	The main branch will only be merged with group consensus.
 - Individuals will add notes to their README or in a text file in their branch. 
 
