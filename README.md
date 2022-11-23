@@ -2,33 +2,6 @@
 
 ## Machine Learning Project Notes
 
-### Segment 3
-
-1.	ML: explanation of changes between segment 2
-
-In addition to the models we already had, we ran a Naïve-Bayes to account for prior probability.
-
-
-2.	Description of how we trained the model and additional training
-
-We imported ‘train_test_split’ from sklearn.model_selection and split our data 75% training data and 25% test data.
-
-
-3.	Description of current accuracy and address our questions 
-
-a.	Is there a correlation between the cost of conduit and fittings? YES
-
-b.	Is there a correlation between the cost of cable and the wires they require? YES
-
-c.	Can we use a machine learning model to predict cheap prices? ABSOLUTELY (99% accuracy and 98% precision) but may be overfit. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture35.png)
-
-d.	Is there a relationship between the cost of materials and the days of the week? YES, BUT NOT AS STRONG (67% accuracy and 71% precision). We noticed that accuracy and precision has been increasing as we increase our data. Also, the number of returned queries increases around weekends due to increased weekend advertising.
-queried.  ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture36.png)
-
-e.	Is there a relationship between a vendor’s location or region and how much they charge? YES, BUT NOT AS STRONG (69% accuracy and 75% precision). We noticed that precision has been increasing as we increase our data. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture37.png)
-
-
-
 ### Selected topic:
 To save estimators time, we are using APIs to search material prices of multiple electrical materials suppliers. With the data collected, we produce two tables. One that is updated daily with the lowest prices and another that is also updated daily and consolidated. The consolidated data set will be used to establish price correlations between materials and make predictions.
 
@@ -38,14 +11,14 @@ I have been an electrical estimator for five years. In the beginning, when we we
 ### Description of the source of data:
 We've chosen 16 commonly used electrical materials items to query. After some research, we determined that the Home Depot product API does the best job of grabbing electrical material items we tell it to look for by product id. We then Plug the 16 items into a Google search algorithm and extract the material name, the price, and the website link. Unfortunately, the Google search API does not have a vendor category so to extract the name of the vendor, we use Python to split the link. Our main source of data is generated daily and can contain up to twenty-seven vendors. We also have historical data but the best we could find only covers two vendors (Home Depot and Lowes) over a 120 day period.
 
-### Questions we hope to answer with the data:
+### Questions we answered with the data:
 Small items, typically purchased with large materials, are not directly priced. Rather, a percentage is tagged to the cost of the primary material to account for the cost of the small items. It’s impractical to search out each individual small item and yet, the margin on electrical construction is so slim that even the price of small items can make a difference on the profit. The materials we are looking at can be placed in four categories: conduit, conduit fittings, cable and the wires that go inside the cables.
 
 Questions:
-o	Is there a correlation between the cost of conduit and fittings?
-o	Is there a correlation between the cost of cable and the wires they need?
-o	Is there a correlation between the cost of materials and the days of the week—in other words, is there a day of the week where materials are more expensive or less expensive And if so can we predict it?
-o	Is there a relationship between a vendor’s location or region and how much they charge?
+o	Is there a correlation between the cost of conduit and fittings?	YES
+o	Is there a correlation between the cost of cable and the wires they need?	YES
+o	Is there a correlation between the cost of materials and the days of the week—in other words, is there a day of the week where materials are more expensive or less expensive And if so can we predict it?	YES AND YES
+o	Is there a relationship between a vendor’s location or region and how much they charge?	YES
 
 ### Description of the data exploration phase of the project:
 The API approach was our alternative to web scraping, but the data collected still requires a lot of cleaning. There are scaling issues, and naming issues (different manufacturers have slightly different names for the same items). Once we have created vendor columns, we then plug those vendor names into a slightly different Google shopping API and that returns addresses. From the address column, we create a region column. There is also a formatted datetime column and a synthetic column based on the datetime that gives us the day of the week. The system is not perfect, but it works well. Since October 20th, we have been collecting and consolidating data. We currently have over 1000 rows of cleaned data with several features (prices, location, region, day of the week) and targets (high prices, low prices, and about average prices).
@@ -84,7 +57,7 @@ In the future, features that could be added to the data set are:
 
 	•	Query for vendors within a 50 mile radius 
 
-3.	Next I kept the price column and label encoded: material description, vendor, date, day of week, region, and target price to create a new data frame. I ran a correlation matrix and saw some connections. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture27.png)  
+3.	Next I kept the price column as is and label encoded: material description, vendor, date, day of week, region, and target price to create a new data frame. I ran a correlation matrix and saw some connections. ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture27.png)  
 
 4.	With the data encoded, I dropped “about average” to define a target of either “low price” or “high price”. With this done, I was able to separate my data into features (X) and target (y).
 
@@ -94,33 +67,12 @@ In the future, features that could be added to the data set are:
 6.	Last, I created a confusion matrix and printed my results.
 ![Alt text](https://github.com/thegreatkeej/Estimator_Project/blob/kijahre/images/Picture29.png)
  
-	
-## What Currently Needs Work (11/14 to 11/20):
 
-•	Polish a deliverable “Segment 3”
+## Contributors, Duties, and Protocols
+Contributors: Kijahre Fikiri: (Data collection coding, initial data storage, preprocessing and ML), Nancy Fujikado: (Project manager, organizing deliverables, Power-point), Sarah-Michelle Sanchez: (Visualizations) and Alexei Mendoza: (Databases).
 
-•	Create (2) new models to answer other questions:
-
-	o	regression model that predicts day of the week for lowest prices
-
-	o	regression model that predicts region and lowest price 
-
-	
-•	Polish PGAdmin Databases
-
-•	Discuss structure of presentation
-
-•	Complete Dashboard
-
-•	Complete Power Point
- 
-•	Practice presentation
-
-## Protocols
-Members: Kijahre Fikiri, Nancy Fujikado, Sarah-Michelle Sanchez and Alexei Mendoza are the contibutors of this project.
-
-### Description (communication and rules):
-1.	The contributors will meet during normal class time (unless otherwise specified).
+### Protocols (communication and rules):
+1.	The contributors will meet Mondays/Wednesdays @7pm until project completion.
 2.	The main branch will only be merged with group consensus.
 3. 	Feel free to leave notes on the notes board. Please leave name and date along with any comments.
 
